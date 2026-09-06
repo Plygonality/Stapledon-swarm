@@ -59,7 +59,7 @@ Not allowed:
 | Operational cell | Habitat-kit `screenshots/operational/` | Habitat-kit + Time-slice + Blend-ci | Cell. Unshot here. |
 | Relic cell | Habitat-kit `screenshots/relic/` | Habitat-kit + Time-slice + Blend-ci | Cell. Unshot here. |
 
-The three `stills/` files are not Habitat-kit proofs. Blend-ci does not cook them. Habitat-kit does not recreate them.
+The three `stills/` files are not Habitat-kit proofs. Blend-ci does not cook them. Habitat-kit does not recreate them. Captioned frames live in [`layer-b-wiki.md`](layer-b-wiki.md) §13.
 
 Distant cells in the key-art read as sharp dark polygons. That is a silhouette at system scale. Do not build a diamond planet in Habitat-kit. The kit instances one airlock / deck-bay / truss / hatch cell.
 
