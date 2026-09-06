@@ -25,7 +25,7 @@ This directory is the world frame. It is not Habitat-kit. It is not a novel.
 | OPEN items | point at the list | tagged in place | “do not instance” |
 | Named characters, factions, religions | no | no | no |
 | Habitat-kit Python / graphs | no | no | names and sockets only |
-| Artwork binaries | point at `stills/` | tagged descriptions | map the three files; do not cook Habitat Cuts |
+| Artwork binaries | point at `stills/` | embed `stills/` with captions in §12–13 | map the three files; do not cook Habitat Cuts |
 
 ## Conflict order
 

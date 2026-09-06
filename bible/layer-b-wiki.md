@@ -160,6 +160,10 @@ Tagged source. If Layer A is shorter or smoother, this file still wins. Tags: [`
 
 **CANON.** Do not retcon that silhouette onto planets b–f. Do not label it 62e or 62f to make the still “read.”
 
+![01-eclipse — irregular key-art body against Kepler-62](../stills/01-eclipse.jpg)
+
+*The large body. Irregular, non-spherical, blocky / cutout edges. Not a circular planet disk. Not Kepler-62b–f. Identity and name stay OPEN.*
+
 **OPEN.** What the body is: constructed, captured, or a non-planet natural.
 
 **OPEN.** Its name. Do not assign one to close the question.
@@ -168,11 +172,29 @@ Tagged source. If Layer A is shorter or smoother, this file still wins. Tags: [`
 
 **CANON.** Three operator system stills are in [`../stills/`](../stills/). They are key-art. They are not Habitat-kit proofs and not Habitat Cuts.
 
-**CANON. `stills/01-eclipse.jpg`.** Kepler-62 as an orange-yellow K disk with granulation and prominences. A large irregular body sits in silhouette against the disk. The swarm reads as a multi-layer veil of many independent dark cells, not a rigid shell. Radial traces may cut the veil. Exterior key is the star, not Earth noon.
+### 13.1 Eclipse — `stills/01-eclipse.jpg`
 
-**CANON. `stills/02-lattice.jpg`.** Star occupies a corner. Distant cells read as repeating sharp geometric silhouettes (arrowhead / diamond / triangular). Rows recede. Faint red orbital traces and a red-brown haze are allowed. A small circular disk may sit on the stellar limb.
+![Kepler-62 eclipsed by the irregular key-art body; swarm as a cell veil](../stills/01-eclipse.jpg)
 
-**CANON. `stills/03-inward.jpg`.** Camera is inside the swarm, looking in. Fine lattice / web over the disk. Same class of irregular foreground body as `01-eclipse.jpg`. A small circular transit disk may sit on the star. That disk is not the large body.
+*Operator key-art. Wide, star-centered. Kepler-62 as an orange-yellow K disk with granulation and prominences. A large irregular body sits in silhouette against the disk — not Kepler-62b–f, not a circular planet. The swarm reads as a multi-layer veil of many independent dark cells, not a rigid shell. Radial traces may cut the veil. Exterior key is the star, not Earth noon. Cell count and fill stay OPEN.*
+
+**CANON.** Frame as captioned. Large body rule as in §12.
+
+### 13.2 Lattice — `stills/02-lattice.jpg`
+
+![Receding lattice of dark geometric cells; K-disk in the upper right](../stills/02-lattice.jpg)
+
+*Operator key-art. Wide. Star occupies a corner: K disk, not Sol-white. Distant cells read as repeating sharp geometric silhouettes (arrowhead / diamond / triangular). Rows recede along faint red orbital traces. Red-brown haze allowed. A small circular disk may sit on the stellar limb — that disk is not the large key-art body. Which of b–f, if any, stays OPEN. These marks are system-scale silhouettes, not the Habitat-kit mesh.*
+
+**CANON.** Frame as captioned.
+
+### 13.3 Inward — `stills/03-inward.jpg`
+
+![Inward view: lattice over the disk, small circular transit, same irregular foreground body](../stills/03-inward.jpg)
+
+*Operator key-art. Camera inside the swarm, looking in. Fine lattice / web over the disk. Same class of irregular foreground body as 13.1. A small circular transit disk may sit on the star. That disk is not the large body. Do not assert which published planet it is. Do not treat this frame as a Habitat Cut.*
+
+**CANON.** Frame as captioned.
 
 **CANON.** A small circular disk on the star may be a published planet. Do not treat it as the large key-art body.
 
