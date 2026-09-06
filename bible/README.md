@@ -25,7 +25,7 @@ This directory is the world frame. It is not Habitat-kit. It is not a novel.
 | OPEN items | point at the list | tagged in place | “do not instance” |
 | Named characters, factions, religions | no | no | no |
 | Habitat-kit Python / graphs | no | no | names and sockets only |
-| Artwork binaries | no | no | text stills only |
+| Artwork binaries | point at `stills/` | tagged descriptions | map the three files; do not cook Habitat Cuts |
 
 ## Conflict order
 
@@ -36,4 +36,4 @@ This directory is the world frame. It is not Habitat-kit. It is not a novel.
 5. Layer C mapping
 6. OPEN — remain unset
 
-Unit-canon numbers are not owned here. If a length is in dispute, [Unit-canon](https://github.com/Plygonality/Unit-canon) wins for scale. This bible wins for world facts.
+Unit-canon numbers are not owned here. If a length is in dispute, [Unit-canon](https://github.com/Plygonality/Unit-canon) wins for scale. This bible wins for world facts. Operator system stills live in [`../stills/`](../stills/). They do not override tagged claims.

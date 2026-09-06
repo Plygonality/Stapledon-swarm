@@ -2,6 +2,16 @@
 
 Hard-SF world frame for Habitat-kit. Three-layer bible (AI context / human wiki / production map) for one independently orbiting cell in the Kepler-62 Stapledon swarm. Not a novel. Not the generator.
 
+Operator key-art (system scale, not Habitat Cuts). The large irregular body is not Kepler-62b–f.
+
+![Kepler-62 eclipsed by the irregular key-art body; swarm as a cell veil](stills/01-eclipse.jpg)
+
+![Receding lattice of dark geometric cells; K-disk in the upper right](stills/02-lattice.jpg)
+
+![Inward view: lattice over the disk, small circular transit, same irregular foreground body](stills/03-inward.jpg)
+
+Files and rules: [`stills/README.md`](stills/README.md).
+
 ## 1. What this repo is
 
 A versioned, loadable bible. Context for [Habitat-kit](https://github.com/Plygonality/Habitat-kit) and the rest of the Plygonality toolchain.
@@ -12,7 +22,7 @@ A versioned, loadable bible. Context for [Habitat-kit](https://github.com/Plygon
 | B | [`bible/layer-b-wiki.md`](bible/layer-b-wiki.md) | Numbered human wiki. Every major claim tagged. |
 | C | [`bible/layer-c-production.md`](bible/layer-c-production.md) | Habitat-kit / Time-slice / Blend-ci map. Ends with the asset-generation checklist. |
 
-OPEN items live in [`bible/open-questions.md`](bible/open-questions.md). Tags are defined in [`schema/status-tags.md`](schema/status-tags.md). How to revise: [`prompts/revise-bible.md`](prompts/revise-bible.md). Operator constraints: [`constraints/operator-rules.md`](constraints/operator-rules.md). Physics rejects: [`constraints/physics-checklist.md`](constraints/physics-checklist.md).
+OPEN items live in [`bible/open-questions.md`](bible/open-questions.md). Tags are defined in [`schema/status-tags.md`](schema/status-tags.md). How to revise: [`prompts/revise-bible.md`](prompts/revise-bible.md). Operator constraints: [`constraints/operator-rules.md`](constraints/operator-rules.md). Physics rejects: [`constraints/physics-checklist.md`](constraints/physics-checklist.md). Operator key-art: [`stills/`](stills/).
 
 ## 2. What this is not
 
@@ -82,9 +92,9 @@ Mass-table correction (CANON): **1 mm @ 1% of a 3.6 AU sphere ≈ 0.012 M⊕**. 
 
 ## 7. Non-goals and OPEN items
 
-Non-goals: implement Habitat-kit or Blend-ci here; add Python packages, CI test suites, or a web UI; fill OPEN items; retcon the key-art silhouette into planets b–f; copy Unit-canon values as if this repo owns them; commit artwork binaries.
+Non-goals: implement Habitat-kit or Blend-ci here; add Python packages, CI test suites, or a web UI; fill OPEN items; retcon the key-art silhouette into planets b–f; copy Unit-canon values as if this repo owns them; commit artwork binaries other than the operator key-art in [`stills/`](stills/).
 
-OPEN items are listed only in [`bible/open-questions.md`](bible/open-questions.md). They stay unset. The large key-art body is not Kepler-62b–f; what it *is* remains OPEN.
+OPEN items are listed only in [`bible/open-questions.md`](bible/open-questions.md). They stay unset. The large key-art body is not Kepler-62b–f; what it *is* remains OPEN. The three stills do not close that.
 
 Payload class on the 0.2c hop: gram-probes, dormant whole-brain emulations, digital archives. That is a non-goal for living crews and generation ships, not an OPEN item.
 

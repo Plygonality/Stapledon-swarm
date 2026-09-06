@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.1 — 2026-09-06
+
+Operator key-art added. No OPEN item filled.
+
+- Three system stills in `stills/`: `01-eclipse.jpg`, `02-lattice.jpg`, `03-inward.jpg`.
+- Large body locked as an irregular, non-spherical silhouette. Still not Kepler-62b–f. Identity and name remain OPEN.
+- Distant cells in key-art read as repeating sharp geometric silhouettes. That is system-scale, not the Habitat-kit mesh.
+- A small circular transit disk may appear. It is not the large body. Which of b–f stays unset.
+- Habitat Cuts stay unshot. README gallery added. “No binaries” rule narrowed to “no binaries except `stills/`.”
+
 ## 0.1.0 — 2026-09-05
 
 Initial public bible.

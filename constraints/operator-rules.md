@@ -45,7 +45,7 @@ Do not fill them in a still brief, a graph comment, or a README flourish. Promot
 
 ## Artwork
 
-Describe stills in text. Do not commit image binaries to this repo.
+Operator key-art lives in [`../stills/`](../stills/). Those three files are the only binaries this repo holds. Do not add more stills to close an OPEN item. Do not retcon the irregular silhouette into Kepler-62b–f. Habitat Cuts stay unshot here.
 
 ## Tags
 
