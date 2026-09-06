@@ -6,7 +6,7 @@ No new world facts. This file maps Layer B onto Habitat-kit, Time-slice, Probe-k
 
 | Repo | May instance | May not |
 | --- | --- | --- |
-| **This bible** | Tagged facts, still text, OPEN list | Graphs, cooks, Python packages |
+| **This bible** | Tagged facts, OPEN list, operator key-art in `stills/` | Graphs, cooks, Python packages, Habitat Cuts |
 | **[Habitat-kit](https://github.com/Plygonality/Habitat-kit)** | One cell. Actors: airlock, deck bay, truss, hatch. Three Habitat Cuts. | The swarm. The large key-art body. A second generator. |
 | **[Time-slice](https://github.com/Plygonality/Time-slice)** | Epoch IDs `construction` / `operational` / `relic` on that cell. Decay-pass + signal-field. | A new identity per epoch. A fourth epoch named for story. |
 | **[Probe-kit](https://github.com/Plygonality/Probe-kit)** | Crawler, drone, debris as instances on the cell. | A second habitat generator. Named operators. |
@@ -50,14 +50,28 @@ Not allowed:
 
 ## 4. Still mapping
 
-| Still | File / folder | Owner | Camera |
+| Still | File | Owner | Camera |
 | --- | --- | --- | --- |
-| 1 System / key-art | text only in Layer B §13 | Look-dev / later kit. Not Habitat-kit v1. | System scale. Large body ≠ b–f. |
-| 2 Construction cell | `screenshots/construction/` | Habitat-kit + Time-slice + Blend-ci | Cell. Same rig as 3 and 4. |
-| 3 Operational cell | `screenshots/operational/` | Habitat-kit + Time-slice + Blend-ci | Cell. Same rig as 2 and 4. |
-| 4 Relic cell | `screenshots/relic/` | Habitat-kit + Time-slice + Blend-ci | Cell. Same rig as 2 and 3. |
+| Eclipse | [`stills/01-eclipse.jpg`](../stills/01-eclipse.jpg) | Operator key-art. This repo. | System. Large irregular body ≠ b–f. |
+| Lattice | [`stills/02-lattice.jpg`](../stills/02-lattice.jpg) | Operator key-art. This repo. | System. Receding geometric cells. |
+| Inward | [`stills/03-inward.jpg`](../stills/03-inward.jpg) | Operator key-art. This repo. | System. Lattice over disk; small circular transit ≠ large body. |
+| Construction cell | Habitat-kit `screenshots/construction/` | Habitat-kit + Time-slice + Blend-ci | Cell. Same rig as the other two cuts. Unshot here. |
+| Operational cell | Habitat-kit `screenshots/operational/` | Habitat-kit + Time-slice + Blend-ci | Cell. Unshot here. |
+| Relic cell | Habitat-kit `screenshots/relic/` | Habitat-kit + Time-slice + Blend-ci | Cell. Unshot here. |
 
-Still 1 is not a Habitat-kit proof. Stills 2–4 are. Blend-ci cooks 2–4 when the kit exists. This repo does not cook them.
+The three `stills/` files are not Habitat-kit proofs. Blend-ci does not cook them. Habitat-kit does not recreate them.
+
+Distant cells in the key-art read as sharp dark polygons. That is a silhouette at system scale. Do not build a diamond planet in Habitat-kit. The kit instances one airlock / deck-bay / truss / hatch cell.
+
+If a look-dev pass matches these frames:
+
+| Cue | Do | Do not |
+| --- | --- | --- |
+| Star | Orange-yellow K disk, prominences allowed | Sol-white, tiny G2 |
+| Swarm | Many independent dark cells; veil / lattice | Solid shell, single ringworld |
+| Large body | Irregular, blocky, unlabeled | Caption 62b–f |
+| Small circular disk | Optional transit; unnamed | Call it the large body |
+| Haze / traces | Faint red orbital traces allowed | Earth-blue space as default |
 
 ## 5. Lighting map (sockets, not story)
 
@@ -101,7 +115,7 @@ Use this list before a Habitat-kit dump, a Time-slice playbook, or a Blend-ci co
 6. **Temperature.** Teq work figure ~120 K. No shirtsleeve balcony, no Earth-noon grade.
 7. **Payload class.** No living crew as the design. Gram-probe / dormant WBE / archive only if they appear as hardware, not as named people.
 8. **Sol / Kepler.** Unlabeled Sol lighting or Sol hardware on a Kepler cell is a fail.
-9. **Key-art body.** If still 1 is in the set, the large body is not Kepler-62b–f and is not labeled as such.
+9. **Key-art body.** If a system still is in the set, the large body is irregular and not Kepler-62b–f. Match `stills/01-eclipse.jpg` / `stills/03-inward.jpg`. Do not label it.
 10. **Mass.** Do not caption a foil swarm as 12 M⊕. 1 mm @ 1% ≈ 0.012 M⊕. 12 M⊕ is 1 m @ 1%.
 11. **0.2c is peak.** No caption that says the cell cruised at 0.2c for 982 yr.
 12. **OPEN.** No new names, factions, religions, or “what the large body is.”

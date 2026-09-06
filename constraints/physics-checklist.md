@@ -88,6 +88,8 @@ WBE that wake into meat at destination is OPEN and stays unset. Do not draw a nu
 | Star is white and small like Sol | K2 / 0.26 L☉ ignored |
 | Cell spans kilometers with no joints | Unit-canon / one-cell rule ignored |
 | Large planet-shaped body labeled 62e or 62f | Key-art retcon |
+| Large irregular silhouette captioned as a planet | Conflicts with `stills/01-eclipse.jpg` / `03-inward.jpg` |
+| Distant diamond marks treated as the Habitat-kit mesh | Scale / one-cell rule ignored |
 
 ## Scale (pointer only)
 

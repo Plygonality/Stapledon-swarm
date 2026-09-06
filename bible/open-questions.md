@@ -21,3 +21,4 @@ Extracted from Layer B. Do not fill these here. Do not fill them in a still brie
 17. Failure mode that produces the relic cut (abandonment, impact, thermal, instruction halt).
 18. Identity of the large key-art body. Locked only as **not** Kepler-62b–f. Constructed, captured, or a non-planet natural: unset.
 19. Name of that body. Do not assign one to close the question.
+20. Which of Kepler-62b–f, if any, is the small circular transit disk in `stills/02-lattice.jpg` and `stills/03-inward.jpg`.
