@@ -1,18 +1,18 @@
 # OPEN items
 
-Extracted from Layer B. Do not fill these here. Do not fill them in a still brief. Promotion requires `prompts/revise-bible.md` and a CHANGELOG entry.
+Pulled from Layer B. Do not fill them here. Do not fill them in a still brief. Promotion needs `prompts/revise-bible.md` and a CHANGELOG line.
 
 1. Whether Sol keeps a live command loop, or only a 982 yr one-way archive dump.
 2. Ship-frame vs barycentric clocks; who keeps time and on what hardware.
-3. What physically supplies the 0.001 g (beamed sail, onboard drive, staged). The profile is locked; the engine card is not.
+3. What physically supplies the 0.001 g (beamed sail, onboard drive, staged). Profile locked. Engine card unset.
 4. Whether any WBE instantiate in meat at destination.
 5. Whether gram-probes remain a live mesh after arrival or become feedstock.
 6. Exact catalog reconciliation against the 0.76 M☉ / 0.26 L☉ work figures.
 7. Whether Kepler-62e / 62f are mined, ignored, or reserved.
-8. Additional unseen planets. Literature has speculated; this bible adopts none.
+8. Additional unseen planets. Papers have guessed. This bible adopts none.
 9. Waste-heat, view factor, and coating under the ~120 K Teq work figure.
 10. Cell count and spacing law inside 3.6 AU.
-11. Plate thickness and fill fraction of the **built** swarm (the mass table is a conversion, not a chosen design).
+11. Plate thickness and fill fraction of the **built** swarm (the mass table converts units; it is not a chosen design).
 12. Plate / hull alloy, ice fraction, slag fraction. Implied ~2 g cm⁻³ at the 1 mm / 1% / 0.012 M⊕ row is INFERENCE, not a spec.
 13. Interior program of a cell beyond Habitat-kit actors (airlock, deck bay, truss, hatch).
 14. Atmosphere mix, pressure, and whether any volume is shirtsleeve.

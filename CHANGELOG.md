@@ -1,6 +1,13 @@
 # Changelog
 
-## 0.1.1 — 2026-09-06
+## 0.1.2, 2026-09-06
+
+Prose pass. Same numbers. Same tags. Same stills.
+
+- Cut em-dashes, stacked "not this / but that" lines, and even sentence rhythm.
+- Captions rewritten the same way. OPEN list unchanged.
+
+## 0.1.1, 2026-09-06
 
 Operator key-art added. No OPEN item filled.
 
@@ -8,9 +15,9 @@ Operator key-art added. No OPEN item filled.
 - Large body locked as an irregular, non-spherical silhouette. Still not Kepler-62b–f. Identity and name remain OPEN.
 - Distant cells in key-art read as repeating sharp geometric silhouettes. That is system-scale, not the Habitat-kit mesh.
 - A small circular transit disk may appear. It is not the large body. Which of b–f stays unset.
-- Habitat Cuts stay unshot. README gallery added. “No binaries” rule narrowed to “no binaries except `stills/`.”
+- Habitat Cuts stay unshot. README gallery added. "No binaries" rule narrowed to "no binaries except `stills/`."
 
-## 0.1.0 — 2026-09-05
+## 0.1.0, 2026-09-05
 
 Initial public bible.
 
