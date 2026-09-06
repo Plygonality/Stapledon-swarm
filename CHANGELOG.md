@@ -4,7 +4,7 @@
 
 Operator key-art added. No OPEN item filled.
 
-- Three system stills in `stills/`: `01-eclipse.jpg`, `02-lattice.jpg`, `03-inward.jpg`.
+- Three system stills in `stills/`: `01-eclipse.jpg`, `02-lattice.jpg`, `03-inward.jpg`. Embedded with captions in README, `stills/README.md`, and Layer B §12–13.
 - Large body locked as an irregular, non-spherical silhouette. Still not Kepler-62b–f. Identity and name remain OPEN.
 - Distant cells in key-art read as repeating sharp geometric silhouettes. That is system-scale, not the Habitat-kit mesh.
 - A small circular transit disk may appear. It is not the large body. Which of b–f stays unset.

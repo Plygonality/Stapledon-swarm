@@ -2,13 +2,19 @@
 
 Hard-SF world frame for Habitat-kit. Three-layer bible (AI context / human wiki / production map) for one independently orbiting cell in the Kepler-62 Stapledon swarm. Not a novel. Not the generator.
 
-Operator key-art (system scale, not Habitat Cuts). The large irregular body is not Kepler-62b–f.
+Operator key-art (system scale, not Habitat Cuts). The large irregular body is not Kepler-62b–f. Tagged write-up in [`bible/layer-b-wiki.md`](bible/layer-b-wiki.md) §12–13.
 
 ![Kepler-62 eclipsed by the irregular key-art body; swarm as a cell veil](stills/01-eclipse.jpg)
 
+*`01-eclipse` — Wide, star-centered. Kepler-62 as a K disk with prominences. Large irregular body in silhouette (not planets b–f). Swarm as a multi-layer cell veil, not a shell.*
+
 ![Receding lattice of dark geometric cells; K-disk in the upper right](stills/02-lattice.jpg)
 
+*`02-lattice` — Star in the corner. Distant cells as repeating sharp geometric silhouettes. Faint red orbital traces / haze. A small circular limb disk, if present, is not the large body.*
+
 ![Inward view: lattice over the disk, small circular transit, same irregular foreground body](stills/03-inward.jpg)
+
+*`03-inward` — Camera inside the swarm. Fine lattice over the disk. Same irregular foreground body. Small circular transit ≠ large body. Not a Habitat Cut.*
 
 Files and rules: [`stills/README.md`](stills/README.md).
 
