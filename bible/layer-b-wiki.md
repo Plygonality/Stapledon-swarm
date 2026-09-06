@@ -154,27 +154,37 @@ Tagged source. If Layer A is shorter or smoother, this file still wins. Tags: [`
 
 ## 12. Key-art body
 
-**CANON.** The large body in the system / key-art still is **not** Kepler-62b, c, d, e, or f.
+**CANON.** The large body in the system / key-art stills is **not** Kepler-62b, c, d, e, or f.
 
-**CANON.** Do not retcon that silhouette onto those planets. Do not label it 62e or 62f to make the still “read.”
+**CANON.** In the operator stills that body is an irregular, non-spherical silhouette with blocky / cutout edges. It is not a circular planet disk.
+
+**CANON.** Do not retcon that silhouette onto planets b–f. Do not label it 62e or 62f to make the still “read.”
 
 **OPEN.** What the body is: constructed, captured, or a non-planet natural.
 
 **OPEN.** Its name. Do not assign one to close the question.
 
-## 13. Four stills (text only)
+## 13. Stills
 
-**CANON.** Four production stills. Described here. No binaries in this repo.
+**CANON.** Three operator system stills are in [`../stills/`](../stills/). They are key-art. They are not Habitat-kit proofs and not Habitat Cuts.
 
-**CANON. Still 1 — System / key-art.** Kepler-62 as a K2 disk. Thin swarm at 3.6 AU, readable as many independent cells or plates, not a solid shell. A large body sits in frame. That body is not b–f. If b–f appear, they are small, interior, and not the large body. Exterior key is not Earth noon. Flux is 0.020 S☉.
+**CANON. `stills/01-eclipse.jpg`.** Kepler-62 as an orange-yellow K disk with granulation and prominences. A large irregular body sits in silhouette against the disk. The swarm reads as a multi-layer veil of many independent dark cells, not a rigid shell. Radial traces may cut the veil. Exterior key is the star, not Earth noon.
 
-**CANON. Still 2 — Construction cell.** One cell, Habitat Cut `construction`. Scaffold and incomplete structure dominate. Work lights and arcs beat the star. Unit-canon figure or airlock readable for scale. Probe-kit crawler / drone / debris allowed as instances, not as a second generator.
+**CANON. `stills/02-lattice.jpg`.** Star occupies a corner. Distant cells read as repeating sharp geometric silhouettes (arrowhead / diamond / triangular). Rows recede. Faint red orbital traces and a red-brown haze are allowed. A small circular disk may sit on the stellar limb.
 
-**CANON. Still 3 — Operational cell.** Same cell, Habitat Cut `operational`. Hull complete. Structured running lights. Lived-in wear. No scaffold. Same camera family as still 2 if the set is a Time-slice proof.
+**CANON. `stills/03-inward.jpg`.** Camera is inside the swarm, looking in. Fine lattice / web over the disk. Same class of irregular foreground body as `01-eclipse.jpg`. A small circular transit disk may sit on the star. That disk is not the large body.
 
-**CANON. Still 4 — Relic cell.** Same cell, Habitat Cut `relic`. Oxidation, breach, debris. Sparse survivors / ghost traces on dead channels. Scaffold gone. Same camera family as stills 2–3 if the set is a Time-slice proof.
+**CANON.** A small circular disk on the star may be a published planet. Do not treat it as the large key-art body.
 
-**INFERENCE.** Stills 2–4 are the Habitat Cuts. Still 1 is the only still allowed to sell the system scale and the large non-planet body.
+**OPEN.** Which of b–f, if any, is that circular transit disk.
+
+**CANON.** These frames do not lock cell count, plate thickness, or fill fraction.
+
+**CANON. Habitat Cut stills (unshot).** Construction / operational / relic of one close-up cell. Scaffold / complete / relic as in §11. Unit-canon figure or airlock readable for scale. Probe-kit crawler / drone / debris allowed as instances, not as a second generator. Same camera family across the three cuts if the set is a Time-slice proof.
+
+**CANON.** Distant diamond / arrowhead marks in the key-art are system-scale silhouettes. They are not the Habitat-kit mesh. Habitat-kit builds one industrial / brutalist cell at Unit-canon scale.
+
+**INFERENCE.** The three operator files sell system scale and the large-body rule. The Habitat Cuts sell the cell Habitat-kit is allowed to build.
 
 ## 14. Failure modes
 
@@ -185,6 +195,7 @@ Tagged source. If Layer A is shorter or smoother, this file still wins. Tags: [`
 - Restores 12 M⊕ as the 1 mm swarm.
 - Lights a Kepler cell as Sol / 1 S☉.
 - Labels the large key-art body as Kepler-62b–f.
+- Treats the distant diamond / arrowhead marks as the Habitat-kit mesh.
 - Builds the whole swarm inside Habitat-kit.
 - Fills an OPEN item with a name, a church, or a government.
 - Copies Unit-canon lengths into this repo as if owned here.

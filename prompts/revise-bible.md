@@ -18,7 +18,7 @@ Rewrite only the bible files that must change:
 - `bible/open-questions.md` — OPEN list only.
 - `CHANGELOG.md` — one entry. Breaking CANON changes bump the minor version at least.
 
-Do not add Python, CI, a web UI, or artwork binaries. Do not implement Habitat-kit or Blend-ci.
+Do not add Python, CI, or a web UI. Do not implement Habitat-kit or Blend-ci. Do not replace or relabel the operator files in `stills/`. Do not add binaries to close an OPEN item.
 
 ## Source of truth
 
@@ -48,7 +48,7 @@ Preserve every existing tag unless the CHANGELOG says you are promoting, demotin
 8. Scale lives in Unit-canon (https://github.com/Plygonality/Unit-canon). Point at it. Do not own 1.0 / 3.0 / 1.0 / 1.80 here.
 9. Habitat Cuts = Time-slice `construction` / `operational` / `relic`. Same hull. Epoch is a parameter.
 10. Tone: numbers, failure modes, marked unknowns. No mythic diction. No religions, factions, or endings.
-11. Four stills in text only.
+11. Operator key-art is `stills/01-eclipse.jpg`, `stills/02-lattice.jpg`, `stills/03-inward.jpg`. Habitat Cuts remain unshot. Distant geometric marks are not the Habitat-kit mesh.
 
 ## Tone test
 

@@ -34,12 +34,12 @@ Atmosphere mix, power architecture, and whether planets e/f are feedstock are OP
 
 ## Key art
 
-Four stills, text only. No image binaries in this repo.
+Operator system stills live in `stills/`. They are not Habitat-kit proofs.
 
-1. **System / key-art.** Kepler-62, thin swarm at 3.6 AU, large body in frame. That large body is **not** Kepler-62b–f. Do not label it as those planets. Do not name it to close the question.
-2. **Construction cell.** One cell. Scaffold, incomplete, arcs. Probe-kit actors allowed as instances.
-3. **Operational cell.** Same cell. Hull complete. Structured lights. Lived-in wear, no scaffold.
-4. **Relic cell.** Same cell. Oxidation, breach, debris. Ghost signal. Scaffold gone.
+1. **`stills/01-eclipse.jpg`** — Kepler-62 as a K disk with prominences. Large irregular, non-spherical body in silhouette. Swarm is a veil of many cells, not a shell. That large body is **not** Kepler-62b–f. Do not label it. Do not name it.
+2. **`stills/02-lattice.jpg`** — Receding rows of dark geometric cell silhouettes. Faint red orbital traces / haze allowed. Star in the corner, not Sol-white.
+3. **`stills/03-inward.jpg`** — Camera inside the swarm. Fine lattice over the disk. Same irregular foreground body. A small circular transit disk may sit on the star; it is not the large body. Do not assert which planet.
+4. **Habitat Cuts (unshot).** Construction / operational / relic of **one** close-up cell. Distant diamond / arrowhead marks in the key-art are not the Habitat-kit mesh.
 
 ## Failures (refuse these)
 
