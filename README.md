@@ -1,8 +1,8 @@
 # Stapledon-swarm
 
-Hard-SF world frame for Habitat-kit. Three-layer bible (AI context, human wiki, production map) for one independently orbiting cell in the Kepler-62 Stapledon swarm. Not a novel. Not the generator.
+Hard-SF world bible for Habitat-kit. One independently orbiting cell in the Kepler-62 Stapledon swarm. Not a novel. Not the generator.
 
-Operator key-art, system scale. These are not Habitat Cuts. The large irregular body is not Kepler-62b–f. Tagged notes in [`bible/layer-b-wiki.md`](bible/layer-b-wiki.md) §12–13.
+Key-art, system scale. These are not Habitat Cuts. The large irregular body is not Kepler-62b–f. Notes in [`bible/wiki.md`](bible/wiki.md) §12–13.
 
 ![Kepler-62 with an irregular silhouette on the disk and a cell veil](stills/01-eclipse.jpg)
 
@@ -20,15 +20,15 @@ Index: [`stills/README.md`](stills/README.md).
 
 ## 1. What this repo is
 
-Loadable bible. Habitat-kit and the rest of the Plygonality stack read it.
+A world bible. Habitat-kit and the rest of the Plygonality stack read it.
 
-| Layer | File | Job |
-| --- | --- | --- |
-| A | [`bible/layer-a-ai.md`](bible/layer-a-ai.md) | ~800 words or less. Put this in a model. |
-| B | [`bible/layer-b-wiki.md`](bible/layer-b-wiki.md) | Numbered wiki. Claims tagged. |
-| C | [`bible/layer-c-production.md`](bible/layer-c-production.md) | Maps onto Habitat-kit, Time-slice, Blend-ci. Checklist at the end. |
+| File | Job |
+| --- | --- |
+| [`bible/wiki.md`](bible/wiki.md) | Numbered wiki. Claims tagged. |
+| [`bible/production.md`](bible/production.md) | What Habitat-kit, Time-slice, and Blend-ci may instance. Checklist at the end. |
+| [`bible/open-questions.md`](bible/open-questions.md) | OPEN list. Leave it. |
 
-OPEN list: [`bible/open-questions.md`](bible/open-questions.md). Tag definitions: [`schema/status-tags.md`](schema/status-tags.md). Revision prompt: [`prompts/revise-bible.md`](prompts/revise-bible.md). Operator rules: [`constraints/operator-rules.md`](constraints/operator-rules.md). Physics rejects: [`constraints/physics-checklist.md`](constraints/physics-checklist.md). Stills: [`stills/`](stills/).
+Tags: [`schema/status-tags.md`](schema/status-tags.md). Project rules: [`constraints/project-rules.md`](constraints/project-rules.md). Physics rejects: [`constraints/physics-checklist.md`](constraints/physics-checklist.md). Stills: [`stills/`](stills/).
 
 ## 2. What this is not
 
@@ -44,19 +44,13 @@ Scale is [Unit-canon](https://github.com/Plygonality/Unit-canon). We list the nu
 
 No named people, factions, religions, or generation-ship endings.
 
-## 3. How to load Layer A into a model
+## 3. How to read the wiki
 
-1. Clone the repo.
-2. Give the model [`bible/layer-a-ai.md`](bible/layer-a-ai.md). Stop there.
-3. Skip Layer B, Layer C, and this README unless you are revising the bible or mapping a still.
-4. OPEN means unset. The model does not get to invent the missing piece.
-5. After load, Habitat-kit may do one cell, three Habitat Cuts, Unit-canon sockets. That is the scope.
+Start at [`bible/wiki.md`](bible/wiki.md). That file is the source. If a still or a kit dump fights it, the wiki wins.
 
-```text
-context = bible/layer-a-ai.md
-optional, human only = bible/layer-b-wiki.md
-optional, production mapping = bible/layer-c-production.md
-```
+[`bible/production.md`](bible/production.md) is only the map onto Habitat-kit / Time-slice / Blend-ci. It does not add world facts.
+
+OPEN means unset. Do not invent the missing piece. Habitat-kit may do one cell, three Habitat Cuts, Unit-canon sockets. That is the scope.
 
 ## 4. How Habitat Cuts map
 

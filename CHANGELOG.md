@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0, 2026-09-07
+
+Flattened the bible.
+
+- Wiki is `bible/wiki.md`. Production map is `bible/production.md`.
+- README §3 is how to read the wiki.
+- Project rules live in `constraints/project-rules.md`.
+
 ## 0.1.2, 2026-09-06
 
 Prose pass. Same numbers. Same tags. Same stills.
@@ -9,9 +17,9 @@ Prose pass. Same numbers. Same tags. Same stills.
 
 ## 0.1.1, 2026-09-06
 
-Operator key-art added. No OPEN item filled.
+Key-art stills added. No OPEN item filled.
 
-- Three system stills in `stills/`: `01-eclipse.jpg`, `02-lattice.jpg`, `03-inward.jpg`. Embedded with captions in README, `stills/README.md`, and Layer B §12–13.
+- Three system stills in `stills/`: `01-eclipse.jpg`, `02-lattice.jpg`, `03-inward.jpg`. Embedded with captions in README, `stills/README.md`, and wiki §12–13.
 - Large body locked as an irregular, non-spherical silhouette. Still not Kepler-62b–f. Identity and name remain OPEN.
 - Distant cells in key-art read as repeating sharp geometric silhouettes. That is system-scale, not the Habitat-kit mesh.
 - A small circular transit disk may appear. It is not the large body. Which of b–f stays unset.
@@ -21,8 +29,8 @@ Operator key-art added. No OPEN item filled.
 
 Initial public bible.
 
-- Three-layer frame: Layer A (AI context), Layer B (tagged wiki), Layer C (production map).
-- OPEN list extracted 1:1 from Layer B into `bible/open-questions.md`. No OPEN item filled.
+- Wiki, production map, and OPEN list.
+- OPEN list extracted 1:1 from the wiki into `bible/open-questions.md`. No OPEN item filled.
 - Binding numbers locked: 982 ly, 0.2c peak, ~5000–5100 yr bang-coast-bang at ~0.001 g, Kepler-62 work figures 0.76 M☉ / 0.26 L☉, swarm R = 3.6 AU, flux ≈ 0.020 S☉, Teq work figure ~120 K.
 - Mass-table correction recorded: 1 mm @ 1% of a 3.6 AU sphere ≈ 0.012 M⊕; 12 M⊕ is a 1 m plate @ 1%.
 - Sol / Kepler split, gram-probe / dormant WBE / digital-archive payload class, and the key-art rule (large body ≠ Kepler-62b–f) recorded as CANON.

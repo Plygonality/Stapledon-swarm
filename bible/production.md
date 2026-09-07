@@ -1,15 +1,15 @@
-# Layer C. Production map
+# Production map
 
-No new world facts. Maps Layer B onto Habitat-kit, Time-slice, Probe-kit, Unit-canon, Collection-linter, and Blend-ci. If a sentence is not a mapping, delete it.
+No new world facts. Maps the wiki onto Habitat-kit, Time-slice, Probe-kit, Unit-canon, Collection-linter, and Blend-ci. If a sentence is not a mapping, delete it.
 
 ## 1. Who builds what
 
 | Repo | May instance | May not |
 | --- | --- | --- |
-| **This bible** | Tagged facts, OPEN list, operator key-art in `stills/` | Graphs, cooks, Python packages, Habitat Cuts |
+| **This bible** | Tagged facts, OPEN list, key-art in `stills/` | Graphs, cooks, Python packages, Habitat Cuts |
 | **[Habitat-kit](https://github.com/Plygonality/Habitat-kit)** | One cell. Actors: airlock, deck bay, truss, hatch. Three Habitat Cuts. | The swarm. The large key-art body. A second generator. |
 | **[Time-slice](https://github.com/Plygonality/Time-slice)** | Epoch IDs `construction` / `operational` / `relic` on that cell. Decay-pass + signal-field. | A new identity per epoch. Extra epochs for plot. |
-| **[Probe-kit](https://github.com/Plygonality/Probe-kit)** | Crawler, drone, debris as instances on the cell. | A second habitat generator. Named operators. |
+| **[Probe-kit](https://github.com/Plygonality/Probe-kit)** | Crawler, drone, debris as instances on the cell. | A second habitat generator. Named crew. |
 | **[Unit-canon](https://github.com/Plygonality/Unit-canon)** | Grid 1.0 m, deck 3.0 m, airlock 1.0 m, figure 1.80 m. | Numbers copied into graphs in this repo. |
 | **[Collection-linter](https://github.com/Plygonality/Collection-linter)** | Roles `human_figure`, `airlock`, `deck`, `grid` against Unit-canon. | World-fact checks. Linter does not know Kepler-62. |
 | **[Blend-ci](https://github.com/Plygonality/Blend-ci)** | Headless cook of a Habitat-kit / gn-as-code dump. Viewport or workbench PNG. Hash / lint drift. | Writing the bible. Building the cell. |
@@ -52,14 +52,14 @@ Rejected:
 
 | Still | File | Owner | Camera |
 | --- | --- | --- | --- |
-| Eclipse | [`stills/01-eclipse.jpg`](../stills/01-eclipse.jpg) | Operator. This repo. | System. Large irregular body ≠ b–f. |
-| Lattice | [`stills/02-lattice.jpg`](../stills/02-lattice.jpg) | Operator. This repo. | System. Receding geometric cells. |
-| Inward | [`stills/03-inward.jpg`](../stills/03-inward.jpg) | Operator. This repo. | System. Lattice on the disk. Small circular transit is a different object. |
+| Eclipse | [`stills/01-eclipse.jpg`](../stills/01-eclipse.jpg) | This repo | System. Large irregular body ≠ b–f. |
+| Lattice | [`stills/02-lattice.jpg`](../stills/02-lattice.jpg) | This repo | System. Receding geometric cells. |
+| Inward | [`stills/03-inward.jpg`](../stills/03-inward.jpg) | This repo | System. Lattice on the disk. Small circular transit is a different object. |
 | Construction cell | Habitat-kit `screenshots/construction/` | Habitat-kit + Time-slice + Blend-ci | Cell. Same rig as the other two cuts. Unshot here. |
 | Operational cell | Habitat-kit `screenshots/operational/` | Habitat-kit + Time-slice + Blend-ci | Cell. Unshot here. |
 | Relic cell | Habitat-kit `screenshots/relic/` | Habitat-kit + Time-slice + Blend-ci | Cell. Unshot here. |
 
-`stills/` is operator key-art. Blend-ci does not cook those three. Habitat-kit does not rebuild them. Captions: [`layer-b-wiki.md`](layer-b-wiki.md) §13.
+`stills/` is key-art. Blend-ci does not cook those three. Habitat-kit does not rebuild them. Captions: [`wiki.md`](wiki.md) §13.
 
 Distant cells in the key-art read as sharp dark polygons. System-scale silhouette. Habitat-kit instances one airlock / deck-bay / truss / hatch cell.
 
