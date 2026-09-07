@@ -1,10 +1,10 @@
-# Operator rules
+# Project rules
 
-Rules for people who write, revise, or load this bible. World facts live in `bible/`.
+Rules for anyone who writes or revises this bible. World facts live in `bible/`.
 
 ## Job
 
-Ship a versioned world frame for one independently orbiting cell in the Kepler-62 Stapledon swarm. Habitat-kit reads it. Time-slice maps three epochs onto it. Blend-ci cooks stills of it. None of that work happens here.
+A versioned world frame for one independently orbiting cell in the Kepler-62 Stapledon swarm. Habitat-kit reads it. Time-slice maps three epochs onto it. Blend-ci cooks stills of it. None of that work happens here.
 
 ## Out of scope
 
@@ -46,11 +46,11 @@ The large body in the key-art stills is not Kepler-62b, c, d, e, or f. Do not mo
 
 ## OPEN items
 
-Do not fill them in a still brief, a graph comment, or a README aside. Promote only with [`../prompts/revise-bible.md`](../prompts/revise-bible.md) and a CHANGELOG line.
+Do not fill them in a still brief, a graph comment, or a README aside. Promote only with a CHANGELOG line.
 
 ## Artwork
 
-Operator key-art: [`../stills/`](../stills/). Those three files are the only binaries here. Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Habitat Cuts stay unshot here.
+Key-art: [`../stills/`](../stills/). Those three files are the only binaries here. Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Habitat Cuts stay unshot here.
 
 ## Tags
 

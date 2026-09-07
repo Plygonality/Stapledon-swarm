@@ -1,6 +1,6 @@
 # OPEN items
 
-Pulled from Layer B. Do not fill them here. Do not fill them in a still brief. Promotion needs `prompts/revise-bible.md` and a CHANGELOG line.
+Pulled from the wiki. Do not fill them here. Do not fill them in a still brief. Promotion needs a CHANGELOG line.
 
 1. Whether Sol keeps a live command loop, or only a 982 yr one-way archive dump.
 2. Ship-frame vs barycentric clocks; who keeps time and on what hardware.

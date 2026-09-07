@@ -1,6 +1,6 @@
 # Key-art stills
 
-Operator renders of the Kepler-62 Stapledon swarm. System scale. Habitat-kit does not have to match them. Habitat Cuts are a different set.
+Renders of the Kepler-62 Stapledon swarm. System scale. Habitat-kit does not have to match them. Habitat Cuts are a different set.
 
 ![Kepler-62 with an irregular silhouette on the disk and a cell veil](01-eclipse.jpg)
 
@@ -28,4 +28,4 @@ Operator renders of the Kepler-62 Stapledon swarm. System scale. Habitat-kit doe
 - Habitat-kit builds one close-up cell. The diamond / arrowhead marks here are distant silhouettes.
 - Habitat Cuts (`construction` / `operational` / `relic`) are not in this folder. They are still unshot.
 
-Tagged write-up: [`../bible/layer-b-wiki.md`](../bible/layer-b-wiki.md) §12–13. Production map: [`../bible/layer-c-production.md`](../bible/layer-c-production.md) §4.
+Tagged write-up: [`../bible/wiki.md`](../bible/wiki.md) §12–13. Production map: [`../bible/production.md`](../bible/production.md) §4.

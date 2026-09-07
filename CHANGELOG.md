@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.2.0, 2026-09-07
+
+Dropped the AI layer.
+
+- Removed `bible/layer-a-ai.md` and `prompts/revise-bible.md`.
+- Wiki is `bible/wiki.md`. Production map is `bible/production.md`.
+- README §3 is how to read the wiki. No model-load path.
+- `constraints/operator-rules.md` renamed to `constraints/project-rules.md`.
+
 ## 0.1.2, 2026-09-06
 
 Prose pass. Same numbers. Same tags. Same stills.

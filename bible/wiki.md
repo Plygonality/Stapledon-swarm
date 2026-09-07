@@ -1,6 +1,6 @@
-# Layer B. Human wiki
+# Wiki
 
-Tagged source. Shorter text in Layer A does not override this file. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPEN list: [`open-questions.md`](open-questions.md).
+Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPEN list: [`open-questions.md`](open-questions.md).
 
 ## 1. Scope
 
@@ -156,7 +156,7 @@ Tagged source. Shorter text in Layer A does not override this file. Tags: [`../s
 
 **CANON.** The large body in the system stills is **not** Kepler-62b, c, d, e, or f.
 
-**CANON.** In the operator stills the silhouette is irregular, non-spherical, with blocky / cutout edges. It is not a circular planet disk.
+**CANON.** In the key-art stills the silhouette is irregular, non-spherical, with blocky / cutout edges. It is not a circular planet disk.
 
 **CANON.** Do not move that silhouette onto planets b–f. Do not label it 62e or 62f so the still "reads".
 
@@ -170,7 +170,7 @@ Tagged source. Shorter text in Layer A does not override this file. Tags: [`../s
 
 ## 13. Stills
 
-**CANON.** Three operator system stills sit in [`../stills/`](../stills/). Key-art. Habitat-kit does not have to match them. Habitat Cuts are a different set.
+**CANON.** Three system stills sit in [`../stills/`](../stills/). Key-art. Habitat-kit does not have to match them. Habitat Cuts are a different set.
 
 ### 13.1 Eclipse. `stills/01-eclipse.jpg`
 
@@ -206,7 +206,7 @@ Tagged source. Shorter text in Layer A does not override this file. Tags: [`../s
 
 **CANON.** Diamond and arrowhead marks in the key-art are system-scale silhouettes. Habitat-kit builds one industrial / brutalist cell at Unit-canon scale.
 
-**INFERENCE.** The three operator files show system scale and the large-body rule. Habitat Cuts show the cell Habitat-kit is allowed to build.
+**INFERENCE.** The three key-art files show system scale and the large-body rule. Habitat Cuts show the cell Habitat-kit is allowed to build.
 
 ## 14. Failure modes
 
