@@ -6,7 +6,7 @@ World frame. Habitat-kit is a different repo. This is a world bible, not a novel
 | --- | --- |
 | [`wiki.md`](wiki.md) | Numbered wiki. Tagged summaries. Index of the detail files. |
 | [`probes.md`](probes.md) | Programme, payload, picotechnology, laser-sail family, hop limits. |
-| [`chronology.md`](chronology.md) | Three clocks. Gregorian timeline. Passage vs capture. |
+| [`chronology.md`](chronology.md) | Three clocks. Gregorian A.D. timeline. Passage vs capture. |
 | [`lineages.md`](lineages.md) | Batch lineages as architectural ancestry. |
 | [`preservation.md`](preservation.md) | Competing Earth reconstructions. |
 | [`featured-cell.md`](featured-cell.md) | Featured relic social history vs physical failure. |

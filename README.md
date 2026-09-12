@@ -26,7 +26,7 @@ A world bible. Habitat-kit and the rest of the Plygonality stack read it.
 | --- | --- |
 | [`bible/wiki.md`](bible/wiki.md) | Numbered wiki. Claims tagged. Summaries link to detail files. |
 | [`bible/probes.md`](bible/probes.md) | Payload, picotechnology, laser-sail family, hop limits. |
-| [`bible/chronology.md`](bible/chronology.md) | Three clocks. Gregorian timeline. Passage vs capture. |
+| [`bible/chronology.md`](bible/chronology.md) | Three clocks. Gregorian A.D. timeline. Passage vs capture. |
 | [`bible/lineages.md`](bible/lineages.md) | Batch lineages as architectural ancestry. |
 | [`bible/preservation.md`](bible/preservation.md) | Competing Earth reconstructions. |
 | [`bible/featured-cell.md`](bible/featured-cell.md) | Featured relic social history vs physical failure. |
@@ -81,8 +81,8 @@ Lengths below are for reading. Source file is Unit-canon. Edit there: https://gi
 | Launch architecture | Laser-driven lightsail | Solar collectors may power the plant. Not a solar-wind sail (CANON) |
 | Reference boost | ~226 s, ~0.049 AU, ~34 000 g | Adopted family, ideal reflector ([`calc/lightsail.py`](calc/lightsail.py)) |
 | Unbraked coast | ~4 910 yr external / ~4 811 yr proper | 982 ly at 0.2c (INFERENCE) |
-| Founding launch | 2085–2095 CE | Original probes. ~1 billion (CANON) |
-| Unbraked Kepler passage | 6995–7005 CE | Not capture. Not settlement (INFERENCE) |
+| Founding launch | 2085–2095 A.D. | Original probes. ~1 billion (CANON) |
+| Unbraked Kepler passage | 6995–7005 A.D. | Not capture. Not settlement (INFERENCE) |
 | Probe body | 1–10 g | Sail system extra (CANON) |
 | Kepler-62 mass / luminosity | 0.76 M☉ / 0.26 L☉ | Work figures (CANON). Catalog scatter is OPEN. |
 | Swarm outer radius | 3.6 AU | Independent orbits, not a rigid lattice (CANON) |

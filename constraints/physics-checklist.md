@@ -10,8 +10,8 @@ Reject a still, graph, or brief that fails a row. Work figures are CANON. Catalo
 | Peak and coast speed | 0.2c after laser boost, labeled as peak and as coast | 0.2c as trip-average; 982 yr at 0.2c |
 | Launch architecture | Laser-driven lightsail; solar-powered laser plant allowed | Solar-wind sail; sunlight alone to 0.2c; 0.001 g default burns |
 | Boost (reference family) | ~226 s, ~0.049 AU, ~34 000 g | Two-century burns; 5 106 yr as default transit |
-| Unbraked coast | ~4 910 yr external / ~4 811 yr proper | 7191–7201 CE as current arrival; 982 yr ship time |
-| Launch window | 2085–2095 CE founding dispatch | 3000 CE as the founding launch |
+| Unbraked coast | ~4 910 yr external / ~4 811 yr proper | 7191–7201 A.D. as current arrival; 982 yr ship time |
+| Launch window | 2085–2095 A.D. founding dispatch | 3000 A.D. as the founding launch |
 | Capture | Settlement occurs; mechanism OPEN | Silent Kepler brake laser; Kepler sunlight captures 0.2c |
 | Probe body | 1–10 g; sail extra | Body mass includes the sail without saying so |
 | Star mass / luminosity | 0.76 M☉ / 0.26 L☉ work figures | Sol twins; catalog 0.69 M☉ / ~0.21 L☉ used as if they replace the work figures |
@@ -39,12 +39,12 @@ dx/dt = v
 
 Do not swap those times with kinetic energy or with \(P t\).
 
-Obsolete: constant 0.001 g, ~198 yr burns, ~5 106 yr total, 7191–7201 CE arrival. Historical note only.
+Obsolete: constant 0.001 g, ~198 yr burns, ~5 106 yr total, 7191–7201 A.D. arrival. Historical note only.
 
 ```
 982 ly / 0.2c = 4910 yr external
 τ_coast ≈ 4910 / 1.02062 ≈ 4811 yr
-2085–2095 + 4910 → unbraked passage 6995–7005 CE
+2085–2095 + 4910 → unbraked passage 6995–7005 A.D.
 ```
 
 Passage is not capture.

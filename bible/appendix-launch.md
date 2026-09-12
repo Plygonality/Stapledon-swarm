@@ -83,4 +83,4 @@ Same \(P/m\) on every row of the reference family. Independent Simpson integrati
 
 **CANON.** Constant 0.001 \(g_0\) bang-coast-bang with ~198 yr burns and a ~5 106 yr Kepler transit is an obsolete default. Keep it only as a labelled historical note.
 
-That model gave a 7191–7201 CE arrival band by adding two long burns. Do not reuse that band as the current arrival window.
+That model gave a 7191–7201 A.D. arrival band by adding two long burns. Do not reuse that band as the current arrival window.

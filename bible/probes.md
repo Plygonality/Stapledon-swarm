@@ -4,7 +4,7 @@ Authoritative payload, picotechnology, launch family, and hop limits. Wiki summa
 
 ## 1. Origin programme
 
-**CANON.** Between approximately 2085 and 2095 CE, humanity and its digital descendants launch around one billion original autonomous Von Neumann probes.
+**CANON.** Between approximately 2085 and 2095 A.D., humanity and its digital descendants launch around one billion original autonomous Von Neumann probes.
 
 **CANON.** They leave in batches of thousands toward Solar System sites (infrastructure and later habitation), nearby stellar systems, and more distant systems including Kepler-62.
 
@@ -153,6 +153,6 @@ Research directions, none of them canon: a later-built in-system beamer whose ow
 
 ## 10. Obsolete 0.001 g model
 
-**CANON.** Bible 0.3.0 used constant ~0.001 g burns, ~198 yr per burn, ~5 106 yr total, and a 7191–7201 CE arrival band. That default is withdrawn.
+**CANON.** Bible 0.3.0 used constant ~0.001 g burns, ~198 yr per burn, ~5 106 yr total, and a 7191–7201 A.D. arrival band. That default is withdrawn.
 
 Keep those figures only as labelled history. Do not add the old 194- or 198-year braking burn unless a compatible braking system is specified and justified.
