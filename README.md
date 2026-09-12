@@ -42,11 +42,11 @@ Do not paste this into [Hard-SciFi-idea-generator](https://github.com/Plygonalit
 
 Scale is [Unit-canon](https://github.com/Plygonality/Unit-canon). We list the numbers once so you can read the table. We do not own them.
 
-No named people, factions, religions, or generation-ship endings.
+No named people, factions, religions, or generation-ship endings on a still or Habitat Cut. Programme-history names live in the wiki.
 
 ## 3. How to read the wiki
 
-Start at [`bible/wiki.md`](bible/wiki.md). That file is the source. If a still or a kit dump fights it, the wiki wins.
+Start at [`bible/wiki.md`](bible/wiki.md). That file is the source. If a still or a kit dump fights it, the wiki wins. Programme history is wiki §16–24.
 
 [`bible/production.md`](bible/production.md) is only the map onto Habitat-kit / Time-slice / Blend-ci. It does not add world facts.
 
@@ -60,7 +60,7 @@ One cell. One hull. Epoch is a socket. IDs come from Time-slice. Habitat-kit doe
 | --- | --- | --- |
 | construction | `construction` | Scaffold, incomplete, work lights, arcs |
 | operational | `operational` | Closed hull, structured lights, wear |
-| relic | `relic` | Oxidation, breach, debris, leftover signal |
+| relic | `relic` | Oxidation, breach, debris, leftover 2085 request |
 
 Decay-pass and signal-field stay in Time-slice / Habitat-kit. We only say what the three states mean.
 
@@ -71,8 +71,10 @@ Lengths below are for reading. Source file is Unit-canon. Edit there: https://gi
 | Quantity | Work figure | Owner / note |
 | --- | --- | --- |
 | Distance Sol → Kepler-62 | 982 ly | This bible (CANON) |
-| Peak speed | 0.2c | Peak. Cruise at 0.2c is wrong (CANON) |
-| Transit | ~5000–5100 yr | Bang-coast-bang at ~0.001 g (INFERENCE from the two rows above) |
+| Peak and coast speed | 0.2c | Peak and coast. Not trip-average. 982 yr is light-travel (CANON) |
+| Transit | ~5,106 yr external / ~5,008 yr proper | Bang-coast-bang at ~0.001 g (INFERENCE from the two rows above) |
+| Founding launch | 2085–2095 CE | Original probes. ~1 billion (CANON) |
+| Original Kepler arrival | 7191–7201 CE | 2090 → ~7196 (INFERENCE) |
 | Kepler-62 mass / luminosity | 0.76 M☉ / 0.26 L☉ | Work figures (CANON). Catalog scatter is OPEN. |
 | Swarm outer radius | 3.6 AU | This bible (CANON) |
 | Flux at 3.6 AU | ≈ 0.020 S☉ | 0.26 / 3.6² (INFERENCE) |
@@ -101,6 +103,6 @@ Out of scope: Habitat-kit or Blend-ci code here; Python packages; CI; a web UI; 
 
 OPEN list is only [`bible/open-questions.md`](bible/open-questions.md). Leave it. The stills do not name the large body.
 
-Hop payload: gram-probes, dormant whole-brain emulations, digital archives. Living crew and generation ships are rejected, not left OPEN.
+Hop payload: gram-probes, dormant WBE and ASI states, digital archives. Living crew and generation ships are rejected, not left OPEN. A gram-probe does not run a civilisation.
 
 MIT. [`LICENSE`](LICENSE).

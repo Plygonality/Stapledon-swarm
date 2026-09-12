@@ -18,7 +18,7 @@ Story seed for [Hard-SciFi-idea-generator](https://github.com/Plygonality/Hard-S
 
 Second Unit-canon. Scale: https://github.com/Plygonality/Unit-canon
 
-Named characters, factions, religions, generation-ship endings.
+Named people, factions, or religions on a still, graph, or Habitat Cut. Generation-ship endings. Programme-history names belong in the wiki only.
 
 ## Tone
 
@@ -26,15 +26,19 @@ Numbers. Failure modes. Marked unknowns. No mythic diction. Skip "ancient builde
 
 ## Payload class
 
-Hop hardware: gram-probes, dormant whole-brain emulations, digital archives. Living crews on a 5000 yr clock are out. A generation ship does not "warm up" the still.
+Hop hardware: gram-probes, dormant WBE and ASI states, digital archives. Living crews on a 5000 yr clock are out. A generation ship does not "warm up" the still. A gram-probe does not run a civilisation.
 
 ## Sol vs Kepler
 
-Sol is origin. Kepler-62 is destination. G2 lighting on a Kepler cell is wrong. Earth-flux panels on a 0.020 S☉ orbit are not operational. Label the split if a still could be misread.
+Sol is origin. Kepler-62 is one distant branch of a late-21st-century expansion programme. G2 lighting on a Kepler cell is wrong. Earth-flux panels on a 0.020 S☉ orbit are not operational. Label the split if a still could be misread.
 
 ## Speed
 
-0.2c is the peak. Bang-coast-bang at ~0.001 g. Do not write "cruise at 0.2c for 982 yr."
+0.2c is the peak and the coast of the original Kepler hop. It is not the trip-average speed. Bang-coast-bang at ~0.001 g. Do not write "0.2c for 982 yr." Do not write that cruise at 0.2c is forbidden.
+
+## Time
+
+Reader dates are Gregorian CE in a Sol-barycentric frame. Onboard proper time and experienced time are separate logs. No shared "now" across Sol and Kepler.
 
 ## Mass table
 
@@ -43,6 +47,10 @@ Sol is origin. Kepler-62 is destination. G2 lighting on a Kepler cell is wrong. 
 ## Key-art body
 
 The large body in the key-art stills is not Kepler-62b, c, d, e, or f. Do not move the silhouette onto those planets. Do not name the body to close the question.
+
+## Featured relic
+
+The Habitat-kit relic cell preserves a departure-era computing environment. The leftover signal requests a 2085 commitment. That is one cell. It is not the swarm’s death.
 
 ## OPEN items
 
