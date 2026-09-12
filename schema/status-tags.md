@@ -20,7 +20,7 @@ Every major claim in the wiki gets one tag. Keep the tag when you quote.
 
 ```
 CANON. Peak speed of the original Kepler hop is 0.2c. After the laser boost that is also the coast speed.
-INFERENCE. 982 ly at 0.2c is ~4,910 yr external coast. Unbraked passage for 2085–2095 launches is 6995–7005 CE.
+INFERENCE. 982 ly at 0.2c is ~4,910 yr external coast. Unbraked passage for 2085–2095 launches is 6995–7005 A.D.
 OPEN. Destination braking and capture.
 ```
 

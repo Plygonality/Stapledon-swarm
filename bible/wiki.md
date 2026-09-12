@@ -56,11 +56,11 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **INFERENCE.** Light-travel is 982 yr one way, 1 964 yr round trip, for idealised stationary endpoints. No live conversation.
 
-**CANON.** Reader-facing dates are Gregorian CE in a declared Sol-barycentric frame. Hardware proper time and each mind's experienced time are logged separately. See [`chronology.md`](chronology.md).
+**CANON.** Reader-facing dates are Gregorian A.D. in a declared Sol-barycentric frame. Hardware proper time and each mind's experienced time are logged separately. See [`chronology.md`](chronology.md).
 
 **CANON.** Relativity does not give a shared "now" across Sol and Kepler. Dormancy is not time dilation.
 
-**CANON.** The 0.001 g bang-coast-bang default (~198 yr burns, ~5 106 yr total, 7191–7201 CE arrival) is obsolete. Keep it only as a labelled historical note.
+**CANON.** The 0.001 g bang-coast-bang default (~198 yr burns, ~5 106 yr total, 7191–7201 A.D. arrival) is obsolete. Keep it only as a labelled historical note.
 
 **OPEN.** Destination braking and capture.
 
@@ -262,7 +262,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 - Treats 0.2c as the trip-average speed, or 982 yr as ship time.
 - Denies that 0.2c is the coast speed of the original Kepler hop after boost.
-- Restores 0.001 g bang-coast-bang, ~198 yr burns, or 7191–7201 CE as the default arrival.
+- Restores 0.001 g bang-coast-bang, ~198 yr burns, or 7191–7201 A.D. as the default arrival.
 - Calls the interstellar boost a solar-wind sail or ordinary sunlight.
 - Silently installs a Kepler braking laser or claims Kepler sunlight captures 0.2c.
 - Sends meat crews as the hop design.
@@ -293,7 +293,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ## 16. Programme
 
-**CANON.** 2085–2095 CE: about one billion original autonomous Von Neumann probes, batches of thousands, toward Solar System sites, nearby stars, and distant stars including Kepler-62. Detail: [`probes.md`](probes.md) §1.
+**CANON.** 2085–2095 A.D.: about one billion original autonomous Von Neumann probes, batches of thousands, toward Solar System sites, nearby stars, and distant stars including Kepler-62. Detail: [`probes.md`](probes.md) §1.
 
 **CANON.** Distinguish original probes from later descendants.
 
@@ -309,7 +309,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** Three clocks and three confidence bands as in [`chronology.md`](chronology.md).
 
-**INFERENCE.** Unbraked passage of 2085–2095 launches around 6995–7005 CE. Not capture. Not settlement.
+**INFERENCE.** Unbraked passage of 2085–2095 launches around 6995–7005 A.D. Not capture. Not settlement.
 
 **OPEN.** Whether later faster missions or nearer-system descendants reach Kepler-62 first.
 

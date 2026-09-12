@@ -38,11 +38,11 @@ Sol is origin. Kepler-62 is one distant branch of a late-21st-century expansion 
 
 0.2c is the peak and the coast of the original Kepler hop after a laser-driven lightsail boost. It is not automatically the trip-average speed. 982 yr is light-travel.
 
-Do not restore constant 0.001 g bang-coast-bang as the default. Do not write 7191–7201 CE as the current arrival window. Do not call the interstellar burn a solar-wind sail.
+Do not restore constant 0.001 g bang-coast-bang as the default. Do not write 7191–7201 A.D. as the current arrival window. Do not call the interstellar burn a solar-wind sail.
 
 ## Time
 
-Reader dates are Gregorian CE in a Sol-barycentric frame. Hardware proper time and experienced time are separate logs. No shared "now" across Sol and Kepler. Passage dates are not capture dates.
+Reader dates are Gregorian A.D. in a Sol-barycentric frame. Hardware proper time and experienced time are separate logs. No shared "now" across Sol and Kepler. Passage dates are not capture dates.
 
 ## Mass table
 
