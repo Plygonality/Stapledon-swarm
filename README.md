@@ -26,7 +26,7 @@ A world bible. Habitat-kit and the rest of the Plygonality stack read it.
 | --- | --- |
 | [`bible/wiki.md`](bible/wiki.md) | Numbered wiki. Claims tagged. Summaries link to detail files. |
 | [`bible/probes.md`](bible/probes.md) | Payload, picotechnology, laser-sail family, hop limits. |
-| [`bible/chronology.md`](bible/chronology.md) | Three clocks. Gregorian timeline. Passage vs capture. |
+| [`bible/chronology.md`](bible/chronology.md) | Three clocks. Gregorian A.D. timeline. Passage vs capture. |
 | [`bible/lineages.md`](bible/lineages.md) | Batch lineages as architectural ancestry. |
 | [`bible/preservation.md`](bible/preservation.md) | Competing Earth reconstructions. |
 | [`bible/featured-cell.md`](bible/featured-cell.md) | Featured relic social history vs physical failure. |
