@@ -1,13 +1,17 @@
 # Changelog
 
+## 0.4.1, 2026-09-12
+
+Reader-facing era label is Gregorian A.D., not CE.
+
 ## 0.4.0, 2026-09-12
 
 Laser-driven lightsail replaces constant 0.001 g as the default hop. Controlled worldbuilding replaces the blanket ban on social history. Named founder table withdrawn.
 
 - Launch architecture: dispatch, laser-driven lightsail, unpowered coast, unresolved capture. Interstellar 0.2c is directed laser light. Solar collectors may power the plant. Not a solar-wind sail.
 - Adopted sail family (1–10 g body, sail mass = body, 0.1 g/m², 10 GW/m²) recalculated. Boost: 226 s, 7.31 million km ≈ 0.049 AU, ≈ 34 000 g. Script: `calc/lightsail.py`.
-- Obsolete 0.001 g model (~198 yr burns, ~5 106 yr total, 7191–7201 CE arrival) removed from authoritative tables. Historical note only.
-- Unbraked coast 4 910 yr external / 4 811 yr proper. 2085–2095 launches pass the target around 6995–7005 CE. Passage is not capture. Settlement occurs; braking stays OPEN.
+- Obsolete 0.001 g model (~198 yr burns, ~5 106 yr total, 7191–7201 A.D. arrival) removed from authoritative tables. Historical note only.
+- Unbraked coast 4 910 yr external / 4 811 yr proper. 2085–2095 launches pass the target around 6995–7005 A.D. Passage is not capture. Settlement occurs; braking stays OPEN.
 - Probe body 1–10 g. Sail extra. Archive is comprehensive acquired record plus gaps, not unrecorded history.
 - 600 / 300 / 100 million target split withdrawn from canon. Shares stay OPEN.
 - Later-faster arrival before original Kepler probes moved from CANON to OPEN.
@@ -23,13 +27,13 @@ Laser-driven lightsail replaces constant 0.001 g as the default hop. Controlled 
 
 Programme history locked. Cruise wording corrected. Featured relic given a job.
 
-- Founding launch window 2085–2095 CE. About one billion original probes in batches of thousands. 3000 CE withdrawn as a founding date.
+- Founding launch window 2085–2095 A.D. About one billion original probes in batches of thousands. 3000 A.D. withdrawn as a founding date.
 - 0.2c is peak and coast of the original Kepler hop. It is not the trip-average speed. The old line "cruise at 0.2c is wrong" is deleted.
 - Transit table replaced with the special-relativistic 0.001 g result: 5,105.7 yr external, 5,007.9 yr proper, 97.9 yr clock difference. A 2090 departure arrives around 7196.
-- Reader dates are Gregorian CE in a Sol-barycentric frame. Onboard proper time and experienced time are separate logs. Clock hardware stays OPEN.
+- Reader dates are Gregorian A.D. in a Sol-barycentric frame. Onboard proper time and experienced time are separate logs. Clock hardware stays OPEN.
 - Three ages for stored minds: calendar, hardware elapsed, experienced. Dormancy is not time dilation.
 - Nearby hops under the same model: 4.24 ly around 2218 at ~0.066c; 100 ly around 2786.
-- Later descendants of the same programme can reach Kepler-62 before the original probes. A 0.5c / 3000 CE / 5483 CE row is representative INFERENCE, not a second founding launch.
+- Later descendants of the same programme can reach Kepler-62 before the original probes. A 0.5c / 3000 A.D. / 5483 A.D. row is representative INFERENCE, not a second founding launch.
 - Picotechnology locked as picometre precision on atomic and molecular machines. Four limits recorded. Subatomic robots stay OPEN.
 - Archive locked as the complete acquired Earth archive at cutoff, including gaps. 2085 freezes one cutoff. Later batches may revise.
 - Founder group locked in the wiki. Habitat-kit and stills still do not instance names.

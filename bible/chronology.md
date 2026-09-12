@@ -1,6 +1,6 @@
 # Chronology
 
-Reader-facing dates are Gregorian CE. Tagged summaries also live in [`wiki.md`](wiki.md) §17. Launch physics: [`probes.md`](probes.md), [`appendix-launch.md`](appendix-launch.md).
+Reader-facing dates are Gregorian A.D. Tagged summaries also live in [`wiki.md`](wiki.md) §17. Launch physics: [`probes.md`](probes.md), [`appendix-launch.md`](appendix-launch.md).
 
 ## 1. Three clocks
 
@@ -8,7 +8,7 @@ Reader-facing dates are Gregorian CE. Tagged summaries also live in [`wiki.md`](
 
 | Clock | Measures | Kepler coast example, 2090 launch |
 | --- | --- | --- |
-| External historical date | Gregorian CE in a declared Sol-barycentric frame (ICRS-class axes) | Unbraked passage around 7000 CE |
+| External historical date | Gregorian A.D. in a declared Sol-barycentric frame (ICRS-class axes) | Unbraked passage around 7000 A.D. |
 | Hardware proper time | Proper time accumulated by the physical carrier | Coast ≈ 4 811 yr after a 226 s boost |
 | Experienced age | Subjective runtime while a given mind is executing | Near zero if stored; years if activated |
 
@@ -33,7 +33,7 @@ Reader-facing dates are Gregorian CE. Tagged summaries also live in [`wiki.md`](
 | Band | Meaning | Examples |
 | --- | --- | --- |
 | Established fictional dates | Locked programme history | 2085–2095 launch window |
-| Model-derived dates | Follow from locked speed and distance. Wrong if the model is wrong | Unbraked passage 6995–7005 CE |
+| Model-derived dates | Follow from locked speed and distance. Wrong if the model is wrong | Unbraked passage 6995–7005 A.D. |
 | Relative or provisional periods | Order of operations after successful capture. Not calendar locks | Construction, operational life, relic formation |
 
 **CANON.** Do not invent precise settlement dates to hide the braking gap.
@@ -44,9 +44,9 @@ Reader-facing dates are Gregorian CE. Tagged summaries also live in [`wiki.md`](
 
 **INFERENCE.** 982 ly at 0.2c is 4 910 external years. \(\gamma(0.2c)\approx 1.021\), so onboard coast time is about 4 811 years.
 
-**INFERENCE.** Launches in 2085–2095 imply unbraked passage near the target around 6995–7005 CE. Those are passage estimates, not verified capture or settlement dates.
+**INFERENCE.** Launches in 2085–2095 imply unbraked passage near the target around 6995–7005 A.D. Those are passage estimates, not verified capture or settlement dates.
 
-**CANON.** 7191–7201 CE is not the current default arrival window. That band belonged to the obsolete 0.001 g burn model.
+**CANON.** 7191–7201 A.D. is not the current default arrival window. That band belonged to the obsolete 0.001 g burn model.
 
 **INFERENCE.** The 226 s boost is negligible on a historical table.
 
