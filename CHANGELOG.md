@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.4.0, 2026-09-12
+
+Laser-driven lightsail replaces constant 0.001 g as the default hop. Controlled worldbuilding replaces the blanket ban on social history. Named founder table withdrawn.
+
+- Launch architecture: dispatch, laser-driven lightsail, unpowered coast, unresolved capture. Interstellar 0.2c is directed laser light. Solar collectors may power the plant. Not a solar-wind sail.
+- Adopted sail family (1–10 g body, sail mass = body, 0.1 g/m², 10 GW/m²) recalculated. Boost: 226 s, 7.31 million km ≈ 0.049 AU, ≈ 34 000 g. Script: `calc/lightsail.py`.
+- Obsolete 0.001 g model (~198 yr burns, ~5 106 yr total, 7191–7201 CE arrival) removed from authoritative tables. Historical note only.
+- Unbraked coast 4 910 yr external / 4 811 yr proper. 2085–2095 launches pass the target around 6995–7005 CE. Passage is not capture. Settlement occurs; braking stays OPEN.
+- Probe body 1–10 g. Sail extra. Archive is comprehensive acquired record plus gaps, not unrecorded history.
+- 600 / 300 / 100 million target split withdrawn from canon. Shares stay OPEN.
+- Later-faster arrival before original Kepler probes moved from CANON to OPEN.
+- Named founder table (Rao, Venn, Aster, Saye, Okonkwo, Witness) withdrawn. Rationale: this revision allows institutions and WBE identity questions without inventing protagonists.
+- Featured relic: active population migrated; damaged or unresolved archives never met fidelity and consent tests; leftover signal asks for restoration or continued preservation. Physical failure sequence stays OPEN.
+- Lineages: launch-decade versions become architectural ancestry (joints, hatches, service modules, repair traces). Not factions.
+- Preservation: competing reconstruction practices, not four named factions. No detected life on Kepler-62e / f.
+- Flux stated as ≈ 27.3 W/m². Dim, not a black void. 120 K is a passive-exterior work figure, not every machine's temperature. Plate-mass rows marked plate-only. Independent orbits are not a rigid lattice. Oxidation needs an environment.
+- New detail files: `bible/probes.md`, `chronology.md`, `lineages.md`, `preservation.md`, `featured-cell.md`, `appendix-launch.md`.
+- OPEN list rebuilt 1:1 from the wiki (29 items). Braking, survival, beam control, and sail retention added.
+
 ## 0.3.0, 2026-09-12
 
 Programme history locked. Cruise wording corrected. Featured relic given a job.
