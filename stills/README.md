@@ -4,21 +4,21 @@ Renders of the Kepler-62 Stapledon swarm. System scale. Habitat-kit does not hav
 
 ![Kepler-62 with an irregular silhouette on the disk and a cell veil](01-eclipse.jpg)
 
-*`01-eclipse.jpg`. Wide. Star in the middle. Kepler-62 as an orange-yellow K disk, prominences. Large irregular body in silhouette. Not Kepler-62b–f. Swarm as stacked veils of dark cells. Locks: large-body shape class, K-disk, veil.*
+*`01-eclipse.jpg`. Wide. Star in the middle. Kepler-62 as an orange-yellow K disk, prominences. Large irregular body in silhouette. Not Kepler-62b–f. Swarm as stacked veils of independently orbiting dark cells, not a rigid lattice. Locks: large-body shape class, K-disk, veil.*
 
 ![Rows of dark geometric cells receding, K-disk in the upper right](02-lattice.jpg)
 
-*`02-lattice.jpg`. Wide. Star in the upper right. Distant cells as repeated sharp silhouettes (arrowhead, diamond, triangular). Rows recede. Faint red traces, red-brown haze allowed. Small circular disk may sit on the limb. That disk is not the large body. Planet ID OPEN. Locks: distant cell silhouette, traces / haze.*
+*`02-lattice.jpg`. Wide. Star in the upper right. Distant cells as repeated sharp silhouettes (arrowhead, diamond, triangular). Apparent rows are a camera effect on independent orbits. Filename does not lock a rigid grid. Faint red traces, red-brown haze allowed. Small circular disk may sit on the limb. That disk is not the large body. Planet ID OPEN. Locks: distant cell silhouette, traces / haze.*
 
 ![Looking inward: lattice on the disk, small circular transit, irregular body in the foreground](03-inward.jpg)
 
-*`03-inward.jpg`. Camera already inside the swarm. Fine lattice across the disk. Same irregular foreground body as `01-eclipse`. Small circular transit is a different object. Not a Habitat Cut. Locks: inward camera, lattice-on-disk, transit ≠ large body.*
+*`03-inward.jpg`. Camera already inside the swarm. Fine field of independent cells across the disk. Same irregular foreground body as `01-eclipse`. Small circular transit is a different object. Not a Habitat Cut. Locks: inward camera, cell field on the disk, transit ≠ large body.*
 
 | File | Camera | What it locks |
 | --- | --- | --- |
 | [`01-eclipse.jpg`](01-eclipse.jpg) | Wide, star in the middle. Large irregular body on Kepler-62. | Body is non-spherical. Swarm as cell veils. Star is a K disk with prominences. |
-| [`02-lattice.jpg`](02-lattice.jpg) | Wide, star in the upper right. Receding rows of cells. | Distant cells as repeated sharp silhouettes. Faint red traces / haze allowed. |
-| [`03-inward.jpg`](03-inward.jpg) | Inside the swarm, looking in. Foreground irregular body. Fine lattice on the disk. | Same large-body rule. Small circular transit on the star is a different object. |
+| [`02-lattice.jpg`](02-lattice.jpg) | Wide, star in the upper right. Receding cells. | Distant cells as repeated sharp silhouettes. Not a rigid lattice. Faint red traces / haze allowed. |
+| [`03-inward.jpg`](03-inward.jpg) | Inside the swarm, looking in. Foreground irregular body. Independent cells on the disk. | Same large-body rule. Small circular transit on the star is a different object. |
 
 ## Rules
 
