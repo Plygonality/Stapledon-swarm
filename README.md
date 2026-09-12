@@ -46,7 +46,7 @@ No named people, factions, religions, or generation-ship endings on a still or H
 
 ## 3. How to read the wiki
 
-Start at [`bible/wiki.md`](bible/wiki.md). That file is the source. If a still or a kit dump fights it, the wiki wins. Programme history is wiki §16–24.
+Start at [`bible/wiki.md`](bible/wiki.md). That file is the source. If a still or a kit dump fights it, the wiki wins. Programme history is wiki §16–24. Reader-facing dates are Gregorian A.D.
 
 [`bible/production.md`](bible/production.md) is only the map onto Habitat-kit / Time-slice / Blend-ci. It does not add world facts.
 
@@ -73,8 +73,8 @@ Lengths below are for reading. Source file is Unit-canon. Edit there: https://gi
 | Distance Sol → Kepler-62 | 982 ly | This bible (CANON) |
 | Peak and coast speed | 0.2c | Peak and coast. Not trip-average. 982 yr is light-travel (CANON) |
 | Transit | ~5,106 yr external / ~5,008 yr proper | Bang-coast-bang at ~0.001 g (INFERENCE from the two rows above) |
-| Founding launch | 2085–2095 CE | Original probes. ~1 billion (CANON) |
-| Original Kepler arrival | 7191–7201 CE | 2090 → ~7196 (INFERENCE) |
+| Founding launch | 2085–2095 A.D. | Original probes. ~1 billion (CANON) |
+| Original Kepler arrival | 7191–7201 A.D. | 2090 → ~7196 (INFERENCE) |
 | Kepler-62 mass / luminosity | 0.76 M☉ / 0.26 L☉ | Work figures (CANON). Catalog scatter is OPEN. |
 | Swarm outer radius | 3.6 AU | This bible (CANON) |
 | Flux at 3.6 AU | ≈ 0.020 S☉ | 0.26 / 3.6² (INFERENCE) |

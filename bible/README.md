@@ -10,7 +10,7 @@ World frame. Habitat-kit is a different repo. This is not a novel.
 
 ## How to use them
 
-1. **Read the wiki** for the world. If a still or a kit dump fights it, the wiki wins.
+1. **Read the wiki** for the world. If a still or a kit dump fights it, the wiki wins. Reader-facing dates are Gregorian A.D.
 2. **Read production** when mapping a still or a Habitat Cut. It does not add world facts.
 3. **Leave OPEN items blank.** Filling them is a bible revision. Log it in [`../CHANGELOG.md`](../CHANGELOG.md). Programme-history names in the wiki are tagged claims, not OPEN fills on a still.
 
