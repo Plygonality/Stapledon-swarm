@@ -2,7 +2,7 @@
 
 ## 0.4.1, 2026-09-12
 
-Reader-facing era label is Gregorian A.D., not CE.
+Reader-facing era label is Gregorian A.D., not CE. Every README (`README.md`, `bible/README.md`, `calc/README.md`, `stills/README.md`) states that.
 
 ## 0.4.0, 2026-09-12
 
