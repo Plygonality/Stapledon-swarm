@@ -19,8 +19,8 @@ Every major claim in the wiki gets one tag. Keep the tag when you quote.
 ## Claim format
 
 ```
-CANON. Peak speed is 0.2c. Cruise at 0.2c is wrong.
-INFERENCE. Two 0.001 g burns to 0.2c and back, plus a 0.2c coast over 982 ly, total ~5000–5100 yr.
+CANON. Peak speed of the original Kepler hop is 0.2c. That is also the coast speed.
+INFERENCE. Two 0.001 g burns to 0.2c and back, plus a 0.2c coast over 982 ly, total ~5,106 yr external.
 OPEN. Plate thickness and fill fraction of the built swarm.
 ```
 

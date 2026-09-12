@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.3.0, 2026-09-12
+
+Programme history locked. Cruise wording corrected. Featured relic given a job.
+
+- Founding launch window 2085–2095 CE. About one billion original probes in batches of thousands. 3000 CE withdrawn as a founding date.
+- 0.2c is peak and coast of the original Kepler hop. It is not the trip-average speed. The old line "cruise at 0.2c is wrong" is deleted.
+- Transit table replaced with the special-relativistic 0.001 g result: 5,105.7 yr external, 5,007.9 yr proper, 97.9 yr clock difference. A 2090 departure arrives around 7196.
+- Reader dates are Gregorian CE in a Sol-barycentric frame. Onboard proper time and experienced time are separate logs. Clock hardware stays OPEN.
+- Three ages for stored minds: calendar, hardware elapsed, experienced. Dormancy is not time dilation.
+- Nearby hops under the same model: 4.24 ly around 2218 at ~0.066c; 100 ly around 2786.
+- Later descendants of the same programme can reach Kepler-62 before the original probes. A 0.5c / 3000 CE / 5483 CE row is representative INFERENCE, not a second founding launch.
+- Picotechnology locked as picometre precision on atomic and molecular machines. Four limits recorded. Subatomic robots stay OPEN.
+- Archive locked as the complete acquired Earth archive at cutoff, including gaps. 2085 freezes one cutoff. Later batches may revise.
+- Founder group locked in the wiki. Habitat-kit and stills still do not instance names.
+- Featured Habitat-kit relic cell preserves a departure-era computing environment. Leftover signal requests a 2085 commitment. Exact wording OPEN. Other cells’ relic modes OPEN.
+- Payload class adds dormant ASI states and selective authorised activation. A gram-probe does not run a civilisation.
+- OPEN list pulled 1:1 from the wiki again. Items 1, 2, 13 revised. Featured-cell relic role locked; other cells’ relic modes remain OPEN. Items 22–26 added (probe mass, unique targets, subatomic machines, archive capacity, later-descendant launch years).
+
 ## 0.2.0, 2026-09-07
 
 Flattened the bible.

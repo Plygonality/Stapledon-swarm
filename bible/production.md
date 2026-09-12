@@ -9,7 +9,7 @@ No new world facts. Maps the wiki onto Habitat-kit, Time-slice, Probe-kit, Unit-
 | **This bible** | Tagged facts, OPEN list, key-art in `stills/` | Graphs, cooks, Python packages, Habitat Cuts |
 | **[Habitat-kit](https://github.com/Plygonality/Habitat-kit)** | One cell. Actors: airlock, deck bay, truss, hatch. Three Habitat Cuts. | The swarm. The large key-art body. A second generator. |
 | **[Time-slice](https://github.com/Plygonality/Time-slice)** | Epoch IDs `construction` / `operational` / `relic` on that cell. Decay-pass + signal-field. | A new identity per epoch. Extra epochs for plot. |
-| **[Probe-kit](https://github.com/Plygonality/Probe-kit)** | Crawler, drone, debris as instances on the cell. | A second habitat generator. Named crew. |
+| **[Probe-kit](https://github.com/Plygonality/Probe-kit)** | Crawler, drone, debris as instances on the cell. | A second habitat generator. Named crew. Founder names. |
 | **[Unit-canon](https://github.com/Plygonality/Unit-canon)** | Grid 1.0 m, deck 3.0 m, airlock 1.0 m, figure 1.80 m. | Numbers copied into graphs in this repo. |
 | **[Collection-linter](https://github.com/Plygonality/Collection-linter)** | Roles `human_figure`, `airlock`, `deck`, `grid` against Unit-canon. | World-fact checks. Linter does not know Kepler-62. |
 | **[Blend-ci](https://github.com/Plygonality/Blend-ci)** | Headless cook of a Habitat-kit / gn-as-code dump. Viewport or workbench PNG. Hash / lint drift. | Writing the bible. Building the cell. |
@@ -22,11 +22,13 @@ Same hull. Epoch is a socket pack. Habitat-kit does not fork Time-slice.
 | --- | --- | --- | --- |
 | construction | `construction` | High scaffold, high incomplete, near-zero oxidation | Work lights, arcs, messy |
 | operational | `operational` | Wear, hull closed, no scaffold | Lanes, running lights |
-| relic | `relic` | Oxidation, breach, debris; scaffold gone | Sparse leftovers |
+| relic | `relic` | Oxidation, breach, debris; scaffold gone | Sparse leftovers. Wiki §11: leftover request dated 2085. |
 
 Emitter sites stay seed-locked. Epoch only weights which sites are live.
 
 Do not add a fourth cut. Arrival, founding, and war are plot. They are not epochs.
+
+Relic maps the featured cell’s leftover signal. Do not stamp founder names. Do not caption the swarm as dead.
 
 ## 3. What a cell graph is allowed to show
 
@@ -44,9 +46,10 @@ Rejected:
 - The full 3.6 AU swarm as a Habitat-kit object.
 - A planet-scale body labeled Kepler-62b–f.
 - Sol-white key on a Kepler cell.
-- Named signage, chapels, flags, crew.
+- Named signage, chapels, flags, crew, founder names.
 - Magic lengths.
 - A generation-ship interior.
+- A civilisation running inside a gram-probe prop.
 
 ## 4. Still mapping
 
@@ -113,12 +116,12 @@ Run this before a Habitat-kit dump, a Time-slice playbook, or a Blend-ci cook. F
 4. **Actors.** Habitat-kit: airlock, deck bay, truss, hatch. Probe-kit instances: crawler, drone, debris.
 5. **Flux.** Exterior fill ≈ 0.020 S☉. Work lights carry the visible key. Star is K2.
 6. **Temperature.** Teq work figure ~120 K. No shirtsleeve balcony. No Earth-noon grade.
-7. **Payload class.** No living crew as the design. Gram-probe / dormant WBE / archive as hardware only.
+7. **Payload class.** No living crew as the design. Gram-probe / dormant WBE / ASI / archive as hardware only. No civilisation-on-a-probe caption.
 8. **Sol / Kepler.** Unlabeled Sol lighting or Sol hardware on a Kepler cell fails.
 9. **Key-art body.** System still: large body is irregular and not Kepler-62b–f. Match `stills/01-eclipse.jpg` / `stills/03-inward.jpg`. No label.
 10. **Mass.** Do not caption a foil swarm as 12 M⊕. 1 mm @ 1% ≈ 0.012 M⊕. 12 M⊕ is 1 m @ 1%.
-11. **0.2c is peak.** No caption that the cell cruised at 0.2c for 982 yr.
-12. **OPEN.** No new names, factions, religions, or an identity for the large body.
-13. **Relic.** Time-slice epoch. Not a sermon.
+11. **0.2c is peak and coast.** No caption that the hop averaged 0.2c, or ran 982 yr at 0.2c. No caption that cruise at 0.2c is forbidden.
+12. **OPEN.** No new factions, religions, or an identity for the large body. Founder names stay off the hull.
+13. **Relic.** Time-slice epoch. Featured cell: leftover 2085 request. Not a dead swarm. Not a sermon.
 14. **Cooks live elsewhere.** Graphs: Habitat-kit. Cooks: Blend-ci. Screenshots prove those repos.
 15. **Linter.** Collection-linter roles pass against Unit-canon before a PNG counts as a Habitat Cut.

@@ -12,7 +12,7 @@ World frame. Habitat-kit is a different repo. This is not a novel.
 
 1. **Read the wiki** for the world. If a still or a kit dump fights it, the wiki wins.
 2. **Read production** when mapping a still or a Habitat Cut. It does not add world facts.
-3. **Leave OPEN items blank.** Filling them is a bible revision. Log it in [`../CHANGELOG.md`](../CHANGELOG.md).
+3. **Leave OPEN items blank.** Filling them is a bible revision. Log it in [`../CHANGELOG.md`](../CHANGELOG.md). Programme-history names in the wiki are tagged claims, not OPEN fills on a still.
 
 ## What each file is allowed to contain
 
@@ -21,7 +21,7 @@ World frame. Habitat-kit is a different repo. This is not a novel.
 | Binding numbers | yes, tagged | sockets / still rules |
 | Derivations | yes, tagged INFERENCE | none new |
 | OPEN items | tagged in place | do not instance |
-| Named characters, factions, religions | no | no |
+| Named characters, factions, religions | programme-history names only, tagged | no |
 | Habitat-kit Python / graphs | no | names and sockets only |
 | Artwork | embed `stills/` with captions in §12–13 | map the three files; Habitat Cuts stay unshot |
 
