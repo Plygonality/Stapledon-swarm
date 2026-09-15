@@ -8,6 +8,7 @@ import pathlib
 import re
 import sys
 
+from canon import AIRLOCK_DIAMETER, DECK_HEIGHT, HUMAN_FIGURE_M, METERS_PER_GRID
 from lightsail import AU, C, G0, S_SUN, boost_to_beta, reference_family, sail_diameter_m
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -96,19 +97,44 @@ def check_coast() -> list[str]:
     return errors
 
 
+def _readme_binding_table() -> str:
+    text = (ROOT / "README.md").read_text()
+    m = re.search(r"## [0-9]+\. Binding numbers(.*?)## [0-9]+\.", text, re.S)
+    if not m:
+        return ""
+    return m.group(1)
+
+
 def check_readme_table() -> list[str]:
     """Authoritative README binding table must not publish obsolete arrival/transit as current."""
     errors = []
-    text = (ROOT / "README.md").read_text()
-    # Isolate the binding table.
-    m = re.search(r"## 5\. Binding numbers(.*?)## 6\.", text, re.S)
-    if not m:
+    block = _readme_binding_table()
+    if not block:
         return ["README binding table missing"]
-    block = m.group(1)
     if "7191" in block or "5,106" in block or "0.001 g" in block:
         errors.append("README binding table still publishes obsolete transit")
     if "6995" not in block or "27.3" not in block:
         errors.append("README binding table missing new work figures")
+    return errors
+
+
+def check_unit_canon_table() -> list[str]:
+    """README scale rows must reprint the imported Unit-canon lengths, not a fork."""
+    errors = []
+    block = _readme_binding_table()
+    if not block:
+        return ["README binding table missing"]
+    expected = (
+        ("Grid", METERS_PER_GRID, "1.0"),
+        ("Deck", DECK_HEIGHT, "3.0"),
+        ("Airlock", AIRLOCK_DIAMETER, "1.0"),
+        ("Human figure", HUMAN_FIGURE_M, "1.80"),
+    )
+    for label, value, printed in expected:
+        if label not in block or printed not in block:
+            errors.append(f"README missing Unit-canon {label} reprint {printed}")
+        if abs(value - float(printed)) > 1e-9:
+            errors.append(f"imported {label} {value} != README reprint {printed}")
     return errors
 
 
@@ -124,7 +150,14 @@ def check_epochs() -> list[str]:
 
 def main() -> int:
     errors = []
-    for fn in (check_geometry, check_boost, check_coast, check_readme_table, check_epochs):
+    for fn in (
+        check_geometry,
+        check_boost,
+        check_coast,
+        check_readme_table,
+        check_epochs,
+        check_unit_canon_table,
+    ):
         errors.extend(fn())
     if errors:
         print("FAIL")

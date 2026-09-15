@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.5.0, 2026-09-15
+
+Split what is context from what CI can fail.
+
+- README responsibilities: `bible/` is human + AI context; `calc/` and `schema/` are enforceable; `stills/` are caches.
+- Constraint JSON Schema: `schema/constraints.schema.json`. Every `constraints/*.json` file validates in calc tests.
+- `calc/` imports Unit-canon for meters / deck / airlock / figure. `lightsail.py` keeps SI/IAU physics constants as a documented local override.
+- CI: `.github/workflows/calc.yml` runs pytest only. No Blend-ci, no Blender, no PNG hash, no LFS stills fetch.
+- Key-art JPEGs tracked with Git LFS. Habitat Cuts stay generated from Habitat-kit.
+- `bible/production.md` stays a thin map. Habitat-kit owns generator notes.
+
 ## 0.4.1, 2026-09-12
 
 Reader-facing era label is Gregorian A.D., not CE. Every README (`README.md`, `bible/README.md`, `calc/README.md`, `stills/README.md`) states that.

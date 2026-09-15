@@ -19,6 +19,11 @@ from __future__ import annotations
 
 import math
 
+# LOCAL PHYSICS (not Unit-canon).
+# Unit-canon owns meters_per_grid, deck_height, airlock_diameter, and
+# human_figure only. Speed of light, g0, AU, and the IAU solar constant
+# are SI/IAU values used by the launch integrals. There is no Unit-canon
+# field for them, so they stay local here. Scale lengths: canon.py.
 C = 299792458.0
 G0 = 9.80665
 AU = 149597870700.0
