@@ -1,12 +1,12 @@
 # Production map
 
-No new world facts. Maps the wiki and detail files onto Habitat-kit, Time-slice, Probe-kit, Unit-canon, Collection-linter, and Blend-ci. If a sentence is not a mapping, delete it.
+No new world facts. Thin map of the wiki onto Habitat-kit, Time-slice, Probe-kit, Unit-canon, Collection-linter, and Blend-ci. Habitat-kit owns graphs, cooks, and dump runbooks. Do not grow this file into a Habitat-kit playbook. If a sentence is not a mapping, delete it.
 
 ## 1. Who builds what
 
 | Repo | May instance | May not |
 | --- | --- | --- |
-| **This bible** | Tagged facts, OPEN list, key-art in `stills/`, calculation appendix | Graphs, cooks, Python packages, Habitat Cuts, a simulator |
+| **This bible** | Tagged facts, OPEN list, key-art caches in `stills/`, calc reprint + tests | Graphs, cooks, Habitat Cuts, a simulator, Habitat-kit playbooks |
 | **[Habitat-kit](https://github.com/Plygonality/Habitat-kit)** | One cell. Actors: airlock, deck bay, truss, hatch. Three Habitat Cuts. Lineage joints / hatches / service modules as mesh vocabulary. | The swarm. The large key-art body. A second generator. Extra epoch IDs. |
 | **[Time-slice](https://github.com/Plygonality/Time-slice)** | Epoch IDs `construction` / `operational` / `relic` on that cell. Decay-pass + signal-field. | A new identity per epoch. Extra epochs for plot. |
 | **[Probe-kit](https://github.com/Plygonality/Probe-kit)** | Crawler, drone, debris as instances on the cell. Gram-class probe body and sail remnant as props. | A second habitat generator. Named crew. |
@@ -34,6 +34,8 @@ Oxidation in the decay-pass needs a brief that supplies a credible environment o
 
 ## 3. What a cell graph is allowed to show
 
+Habitat-kit owns the graph. World-frame rejects also live in [`../constraints/physics.json`](../constraints/physics.json). Do not paste dump scripts here.
+
 Allowed:
 
 - One hard-surface cell. Industrial / brutalist.
@@ -60,16 +62,16 @@ Rejected:
 
 ## 4. Still mapping
 
+`stills/` is a cache of system-scale key-art (Git LFS). Blend-ci does not cook those three. Habitat-kit does not rebuild them. Habitat Cuts are generated from Habitat-kit. Captions: [`wiki.md`](wiki.md) §13.
+
 | Still | File | Owner | Camera |
 | --- | --- | --- | --- |
 | Eclipse | [`stills/01-eclipse.jpg`](../stills/01-eclipse.jpg) | This repo | System. Large irregular body ≠ b–f. Independent cells, not a rigid lattice. |
 | Lattice | [`stills/02-lattice.jpg`](../stills/02-lattice.jpg) | This repo | System. Receding geometric cells. Filename does not lock a grid. |
 | Inward | [`stills/03-inward.jpg`](../stills/03-inward.jpg) | This repo | System. Independent cells on the disk. Small circular transit is a different object. |
-| Construction cell | Habitat-kit `screenshots/construction/` | Habitat-kit + Time-slice + Blend-ci | Cell. Same rig as the other two cuts. Unshot here. |
-| Operational cell | Habitat-kit `screenshots/operational/` | Habitat-kit + Time-slice + Blend-ci | Cell. Unshot here. |
-| Relic cell | Habitat-kit `screenshots/relic/` | Habitat-kit + Time-slice + Blend-ci | Cell. Empty habitation + protected archive plant. Unshot here. |
-
-`stills/` is key-art. Blend-ci does not cook those three. Habitat-kit does not rebuild them. Captions: [`wiki.md`](wiki.md) §13.
+| Construction cell | Habitat-kit `screenshots/construction/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Unshot here. |
+| Operational cell | Habitat-kit `screenshots/operational/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Unshot here. |
+| Relic cell | Habitat-kit `screenshots/relic/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Empty habitation + protected archive plant. Unshot here. |
 
 Distant cells in the key-art read as sharp dark polygons. System-scale silhouette. Habitat-kit instances one airlock / deck-bay / truss / hatch cell.
 
@@ -117,22 +119,21 @@ Sail remnant mass is extra to the 1–10 g body. Do not caption a 2 g stack as "
 
 Habitat-kit v1 can skip Sol props. It still cannot light the cell as Sol.
 
-## 8. Asset-generation checklist
+## 8. World-frame gates
 
-Run this before a Habitat-kit dump, a Time-slice playbook, or a Blend-ci cook. Fail on a row = stop.
+Bible rejects, not a Habitat-kit dump script. Run Habitat-kit's own tests in that repo. Fail a row here = the kit dump is off-bible.
 
 1. **One cell.** Independently orbiting cell. Not the swarm. Not a planet. Not a rigid lattice.
 2. **Unit-canon only.** Lengths from Unit-canon. No magic numbers in graphs. Lineage does not fork units.
 3. **Three cuts, same hull.** `construction` / `operational` / `relic`. Epoch is a parameter. Relic is not a redesign. No fourth epoch.
-4. **Actors.** Habitat-kit: airlock, deck bay, truss, hatch. Probe-kit instances: crawler, drone, debris. Lineage: joints, hatches, service modules, repair traces.
-5. **Flux.** Exterior fill ≈ 27.3 W/m² (0.020 S☉). Dim, not a void. Work lights carry the close-up key. Star is K2.
-6. **Temperature.** Teq work figure ~120 K for passive exterior under stated assumptions. Active plant is separate. No shirtsleeve balcony. No Earth-noon grade.
-7. **Payload class.** No living crew as the design. 1–10 g body, sail extra, dormant WBE / ASI / archive as hardware only. No civilisation-on-a-probe caption.
-8. **Sol / Kepler.** Unlabeled Sol lighting or Sol hardware on a Kepler cell fails.
-9. **Key-art body.** System still: large body is irregular and not Kepler-62b–f. Match `stills/01-eclipse.jpg` / `stills/03-inward.jpg`. No label. No detected-life caption on e / f.
-10. **Mass.** Do not caption a foil swarm as 12 M⊕. 1 mm @ 1% ≈ 0.012 M⊕. 12 M⊕ is 1 m @ 1%. Plate examples are not total swarm mass.
-11. **0.2c is peak and coast.** No caption that the hop averaged 0.2c, or ran 982 yr at 0.2c. No 0.001 g two-century burn. No 7191–7201 default arrival. No silent Kepler brake laser.
-12. **OPEN.** No new factions, religions, invented protagonists, or an identity for the large body.
-13. **Relic.** Time-slice epoch. Empty habitation, protected unawakened archives, mixed repairs, restoration / preservation request. Not a dead swarm. Not a sermon. Oxidation needs an environment.
-14. **Cooks live elsewhere.** Graphs: Habitat-kit. Cooks: Blend-ci. Screenshots prove those repos. `calc/lightsail.py` reprints launch numbers. It is not a simulator.
-15. **Linter.** Collection-linter roles pass against Unit-canon before a PNG counts as a Habitat Cut.
+4. **Flux.** Exterior fill ≈ 27.3 W/m² (0.020 S☉). Dim, not a void. Work lights carry the close-up key. Star is K2.
+5. **Temperature.** Teq work figure ~120 K for passive exterior under stated assumptions. Active plant is separate. No shirtsleeve balcony. No Earth-noon grade.
+6. **Payload class.** No living crew as the design. 1–10 g body, sail extra, dormant WBE / ASI / archive as hardware only. No civilisation-on-a-probe caption.
+7. **Sol / Kepler.** Unlabeled Sol lighting or Sol hardware on a Kepler cell fails.
+8. **Key-art body.** System still: large body is irregular and not Kepler-62b–f. Match `stills/01-eclipse.jpg` / `stills/03-inward.jpg`. No label. No detected-life caption on e / f.
+9. **Mass.** Do not caption a foil swarm as 12 M⊕. 1 mm @ 1% ≈ 0.012 M⊕. 12 M⊕ is 1 m @ 1%. Plate examples are not total swarm mass.
+10. **0.2c is peak and coast.** No caption that the hop averaged 0.2c, or ran 982 yr at 0.2c. No 0.001 g two-century burn. No 7191–7201 default arrival. No silent Kepler brake laser.
+11. **OPEN.** No new factions, religions, invented protagonists, or an identity for the large body.
+12. **Relic.** Time-slice epoch. Empty habitation, protected unawakened archives, mixed repairs, restoration / preservation request. Not a dead swarm. Not a sermon. Oxidation needs an environment.
+
+Actors, graphs, cooks, and Collection-linter live in Habitat-kit / Blend-ci. `calc/lightsail.py` reprints launch numbers. It is not a simulator.

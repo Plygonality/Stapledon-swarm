@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stapledon-swarm-calc"
+version = "0.5.0"
+description = "Calc tests and constraint validation for the Stapledon-swarm bible."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+    "unit-canon @ git+https://github.com/Plygonality/Unit-canon.git",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "jsonschema>=4.23"]
+
+[project.urls]
+Homepage = "https://github.com/Plygonality/Stapledon-swarm"
+Unit-canon = "https://github.com/Plygonality/Unit-canon"
+Habitat-kit = "https://github.com/Plygonality/Habitat-kit"
+
+[tool.setuptools]
+packages = []
+
+[tool.pytest.ini_options]
+testpaths = ["calc"]
+pythonpath = ["calc"]
+addopts = "-q"
