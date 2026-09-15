@@ -28,4 +28,4 @@ Renders of the Kepler-62 Stapledon swarm. System scale. Habitat-kit does not hav
 - Habitat-kit builds one close-up cell. The diamond / arrowhead marks here are distant silhouettes.
 - Habitat Cuts (`construction` / `operational` / `relic`) are not in this folder. They are still unshot.
 
-Tagged write-up: [`../bible/wiki.md`](../bible/wiki.md) §12–13. Production map: [`../bible/production.md`](../bible/production.md) §4.
+Tagged write-up: [`../bible/wiki.md`](../bible/wiki.md) §12–13. Production map: [`../bible/production.md`](../bible/production.md) §4. Reader-facing dates in the bible are Gregorian A.D. These stills do not lock a year.
