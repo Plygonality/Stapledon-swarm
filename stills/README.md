@@ -1,6 +1,16 @@
 # Key-art stills
 
-Renders of the Kepler-62 Stapledon swarm. System scale. Habitat-kit does not have to match them. Habitat Cuts are a different set.
+Caches of system-scale key-art for the Kepler-62 Stapledon swarm. Tracked with Git LFS. They are not Habitat Cuts and they are not source of truth: tagged wiki claims win.
+
+Habitat Cuts (`construction` / `operational` / `relic`) are generated from [Habitat-kit](https://github.com/Plygonality/Habitat-kit):
+
+```bash
+python -m habitat_kit apply-script --all-states --object HabitatModule
+```
+
+Those PNGs live in Habitat-kit `screenshots/`. Do not dump them here.
+
+Habitat-kit does not have to match these three frames. Reader-facing dates in the bible are Gregorian A.D.
 
 ![Kepler-62 with an irregular silhouette on the disk and a cell veil](01-eclipse.jpg)
 
@@ -26,6 +36,6 @@ Renders of the Kepler-62 Stapledon swarm. System scale. Habitat-kit does not hav
 - A small circular disk on the star may be a published planet. Do not pick the letter. Do not treat it as the large body.
 - These frames do not set cell count, plate thickness, or fill fraction. Those stay OPEN.
 - Habitat-kit builds one close-up cell. The diamond / arrowhead marks here are distant silhouettes.
-- Habitat Cuts (`construction` / `operational` / `relic`) are not in this folder. They are still unshot.
+- Habitat Cuts (`construction` / `operational` / `relic`) are not in this folder. They are generated from Habitat-kit and stay unshot here.
 
 Tagged write-up: [`../bible/wiki.md`](../bible/wiki.md) §12–13. Production map: [`../bible/production.md`](../bible/production.md) §4. Reader-facing dates in the bible are Gregorian A.D. These stills do not lock a year.

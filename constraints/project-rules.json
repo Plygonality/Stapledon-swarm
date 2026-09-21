@@ -1,0 +1,94 @@
+{
+  "schema": "stapledon-swarm.constraints/1",
+  "id": "project-rules",
+  "title": "Project rules",
+  "kind": "project",
+  "description": "Rules for anyone who writes or revises this bible. World facts live in bible/. Human restatement: project-rules.md.",
+  "rules": [
+    {
+      "id": "job",
+      "tag": "CANON",
+      "statement": "A versioned world frame for one independently orbiting cell in the Kepler-62 Stapledon swarm. Habitat-kit reads it. Time-slice maps three epochs onto it. Blend-ci cooks stills of it. None of that work happens here."
+    },
+    {
+      "id": "not-a-novel-not-the-generator",
+      "tag": "CANON",
+      "statement": "This repo is not a novel and not the generator. Habitat-kit code, Blend-ci cooks, a swarm integrator, and Hard-SciFi-idea-generator seeds stay out."
+    },
+    {
+      "id": "no-second-unit-canon",
+      "tag": "CANON",
+      "statement": "Scale is Unit-canon. This repo imports meters_per_grid, deck_height, airlock_diameter, and human_figure. It does not own them."
+    },
+    {
+      "id": "no-named-protagonists",
+      "tag": "CANON",
+      "statement": "Do not invent named protagonists to fill space. No named people, factions, or religions on a still, graph, or Habitat Cut. Generation-ship endings are out."
+    },
+    {
+      "id": "tone",
+      "tag": "CANON",
+      "statement": "Numbers. Failure modes. Marked unknowns. No mythic diction. Social history is allowed when tagged. It does not replace physics."
+    },
+    {
+      "id": "payload-class",
+      "tag": "CANON",
+      "statement": "Hop hardware: 1–10 g probe body, sail system as extra mass, dormant WBE and ASI states, picobot seeds, digital archives. Living crews on a multi-millennium clock are out. A gram-class body does not run a civilisation."
+    },
+    {
+      "id": "sol-vs-kepler",
+      "tag": "CANON",
+      "statement": "Sol is origin. Kepler-62 is one distant branch of a late-21st-century expansion programme. G2 lighting on a Kepler cell is wrong. Earth-flux panels on a 0.020 S☉ / 27.3 W/m² orbit are not operational."
+    },
+    {
+      "id": "speed-and-launch",
+      "tag": "CANON",
+      "statement": "0.2c is the peak and the coast of the original Kepler hop after a laser-driven lightsail boost. It is not automatically the trip-average speed. 982 yr is light-travel. Do not restore 0.001 g bang-coast-bang or 7191–7201 A.D. as the current arrival window."
+    },
+    {
+      "id": "time-frame",
+      "tag": "CANON",
+      "statement": "Reader dates are Gregorian A.D. in a Sol-barycentric frame. Hardware proper time and experienced time are separate logs. Passage dates are not capture dates."
+    },
+    {
+      "id": "mass-table",
+      "tag": "CANON",
+      "statement": "1 mm of plate covering 1% of a 3.6 AU sphere ≈ 0.012 M⊕. 12 M⊕ is a 1 m plate at 1%. Plate-only examples, not total swarm mass. Do not restore 12 M⊕ @ 1 mm."
+    },
+    {
+      "id": "light-and-temperature",
+      "tag": "CANON",
+      "statement": "≈ 27.3 W/m² at 3.6 AU is dim, not a black void. ~120 K is a specified passive-exterior work figure. Active computers and radiators are separate."
+    },
+    {
+      "id": "key-art-body",
+      "tag": "CANON",
+      "statement": "The large body in the key-art stills is not Kepler-62b, c, d, e, or f. Do not name the body to close the question."
+    },
+    {
+      "id": "featured-relic",
+      "tag": "CANON",
+      "statement": "Empty former habitation, protected unawakened archives, mixed repairs, a restoration or preservation request. One cell. Not the swarm's death. Physical failure sequence stays OPEN unless a later revision logs it."
+    },
+    {
+      "id": "open-items",
+      "tag": "OPEN",
+      "statement": "Do not fill OPEN items in a still brief, a graph comment, or a README aside. Promote only with a CHANGELOG line."
+    },
+    {
+      "id": "artwork-caches",
+      "tag": "CANON",
+      "statement": "Key-art in stills/ is a cache, tracked with Git LFS. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not add stills to close an OPEN item."
+    },
+    {
+      "id": "production-notes-live-in-habitat-kit",
+      "tag": "CANON",
+      "statement": "Do not grow bible/ as a dumping ground for production notes that belong in Habitat-kit. bible/production.md is a map of sockets and still ownership, not a generator playbook."
+    },
+    {
+      "id": "tags",
+      "tag": "CANON",
+      "statement": "Keep CANON / INFERENCE / OPEN. Definitions: schema/status-tags.md."
+    }
+  ]
+}

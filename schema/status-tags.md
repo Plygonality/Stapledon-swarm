@@ -1,6 +1,6 @@
 # Status tags
 
-Every major claim in the wiki gets one tag. Keep the tag when you quote.
+Every major claim in the wiki gets one tag. Keep the tag when you quote. Constraint JSON uses this enum. The schema is [`constraints.schema.json`](constraints.schema.json).
 
 | Tag | Meaning | Who may change it | In a still or kit |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ Every major claim in the wiki gets one tag. Keep the tag when you quote.
 ## Rules
 
 1. Wiki sentence with no tag is a defect. Tag it or delete it.
-2. `production.md` maps facts. It does not add them.
+2. `production.md` maps facts. It does not add them. Habitat-kit owns generator notes.
 3. OPEN to CANON needs a CHANGELOG line and a reason (measurement, a lock, or a derivation you can show).
 4. CANON down to OPEN is breaking. Bump the minor version.
 5. Catalog numbers and work figures can disagree. Production uses the work figure. Catalog stays in a note.

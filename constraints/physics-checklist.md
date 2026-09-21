@@ -1,5 +1,7 @@
 # Physics checklist
 
+Readable restatement of [`physics.json`](physics.json). CI validates that JSON against [`../schema/constraints.schema.json`](../schema/constraints.schema.json).
+
 Reject a still, graph, or brief that fails a row. Work figures are CANON. Catalog values that differ get a note. They do not get used.
 
 ## Binding work figures

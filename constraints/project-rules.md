@@ -1,5 +1,7 @@
 # Project rules
 
+Readable restatement of [`project-rules.json`](project-rules.json). CI validates that JSON against [`../schema/constraints.schema.json`](../schema/constraints.schema.json).
+
 Rules for anyone who writes or revises this bible. World facts live in `bible/`.
 
 ## Job
@@ -10,7 +12,7 @@ A versioned world frame for one independently orbiting cell in the Kepler-62 Sta
 
 Habitat-kit code: generators, graphs, apply scripts.
 
-Blend-ci: cooks, hashes, CI test suites.
+Blend-ci: cooks, hashes, image CI. Calc tests in this repo are in scope.
 
 Swarm integrator. Game engine. Other Plygonality toolchain repos.
 
@@ -66,8 +68,8 @@ Do not fill them in a still brief, a graph comment, or a README aside. Promote o
 
 ## Artwork
 
-Key-art: [`../stills/`](../stills/). Those three files are the only image binaries here. Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Habitat Cuts stay unshot here.
+Key-art: [`../stills/`](../stills/). Those three files are caches, tracked with Git LFS. Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not dump Habitat-kit production notes into `bible/`.
 
 ## Tags
 
-Keep CANON / INFERENCE / OPEN. Definitions: [`../schema/status-tags.md`](../schema/status-tags.md).
+Keep CANON / INFERENCE / OPEN. Definitions: [`../schema/status-tags.md`](../schema/status-tags.md). Machine contract: [`../schema/constraints.schema.json`](../schema/constraints.schema.json).

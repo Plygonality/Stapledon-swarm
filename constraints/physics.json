@@ -1,0 +1,224 @@
+{
+  "schema": "stapledon-swarm.constraints/1",
+  "id": "physics",
+  "title": "Physics checklist",
+  "kind": "physics",
+  "description": "Reject a still, graph, or brief that fails a row. Work figures are CANON. Catalog values that differ get a note. They do not get used. Human restatement: physics-checklist.md.",
+  "figures": [
+    {
+      "id": "distance-sol-kepler62",
+      "quantity": "Distance Sol → Kepler-62",
+      "value": 982,
+      "unit": "ly",
+      "tag": "CANON",
+      "owner": "stapledon-swarm",
+      "pass": "982 ly",
+      "fail": ["nearby", "1200 ly NASA press figure used as the work distance"]
+    },
+    {
+      "id": "peak-and-coast-speed",
+      "quantity": "Peak and coast speed",
+      "value": 0.2,
+      "unit": "c",
+      "tag": "CANON",
+      "owner": "stapledon-swarm",
+      "pass": "0.2c after laser boost, labeled as peak and as coast",
+      "fail": ["0.2c as trip-average", "982 yr at 0.2c"]
+    },
+    {
+      "id": "launch-architecture",
+      "quantity": "Launch architecture",
+      "value": "laser-driven lightsail",
+      "tag": "CANON",
+      "owner": "stapledon-swarm",
+      "pass": "Laser-driven lightsail; solar-powered laser plant allowed",
+      "fail": ["Solar-wind sail", "sunlight alone to 0.2c", "0.001 g default burns"]
+    },
+    {
+      "id": "reference-boost",
+      "quantity": "Boost (reference family)",
+      "value": "226 s, 0.049 AU, 34000 g",
+      "tag": "INFERENCE",
+      "owner": "stapledon-swarm",
+      "pass": "~226 s, ~0.049 AU, ~34 000 g",
+      "fail": ["Two-century burns", "5 106 yr as default transit"]
+    },
+    {
+      "id": "unbraked-coast",
+      "quantity": "Unbraked coast",
+      "value": "4910 yr external / 4811 yr proper",
+      "tag": "INFERENCE",
+      "owner": "stapledon-swarm",
+      "pass": "~4 910 yr external / ~4 811 yr proper",
+      "fail": ["7191–7201 A.D. as current arrival", "982 yr ship time"]
+    },
+    {
+      "id": "launch-window",
+      "quantity": "Launch window",
+      "value": "2085-2095 A.D.",
+      "tag": "CANON",
+      "owner": "stapledon-swarm",
+      "pass": "2085–2095 A.D. founding dispatch",
+      "fail": ["3000 A.D. as the founding launch"]
+    },
+    {
+      "id": "capture",
+      "quantity": "Capture",
+      "value": "settlement occurs; mechanism OPEN",
+      "tag": "OPEN",
+      "owner": "stapledon-swarm",
+      "pass": "Settlement occurs; mechanism OPEN",
+      "fail": ["Silent Kepler brake laser", "Kepler sunlight captures 0.2c"]
+    },
+    {
+      "id": "probe-body",
+      "quantity": "Probe body",
+      "value": "1-10 g; sail extra",
+      "tag": "CANON",
+      "owner": "stapledon-swarm",
+      "pass": "1–10 g; sail extra",
+      "fail": ["Body mass includes the sail without saying so"]
+    },
+    {
+      "id": "star-mass-luminosity",
+      "quantity": "Star mass / luminosity",
+      "value": "0.76 Msun / 0.26 Lsun",
+      "tag": "CANON",
+      "owner": "stapledon-swarm",
+      "pass": "0.76 M☉ / 0.26 L☉ work figures",
+      "fail": ["Sol twins", "catalog 0.69 M☉ / ~0.21 L☉ used as if they replace the work figures"]
+    },
+    {
+      "id": "swarm-outer-radius",
+      "quantity": "Swarm outer radius",
+      "value": 3.6,
+      "unit": "AU",
+      "tag": "CANON",
+      "owner": "stapledon-swarm",
+      "pass": "3.6 AU, independent orbits",
+      "fail": ["1 AU Earth analog", "Dyson shell at the HZ", "rigid lattice"]
+    },
+    {
+      "id": "flux-at-outer-radius",
+      "quantity": "Flux at 3.6 AU",
+      "value": 27.3,
+      "unit": "W/m^2",
+      "tag": "INFERENCE",
+      "owner": "stapledon-swarm",
+      "pass": "≈ 0.020 S☉ ≈ 27.3 W/m²",
+      "fail": ["1 S☉ panels", "virtually invisible exteriors", "blue-white key"]
+    },
+    {
+      "id": "teq-work-figure",
+      "quantity": "Teq work figure",
+      "value": 120,
+      "unit": "K",
+      "tag": "CANON",
+      "owner": "stapledon-swarm",
+      "pass": "~120 K for passive exterior under stated assumptions",
+      "fail": ["Every machine at 120 K", "shirtsleeve exterior", "Earth-daylight grade"]
+    },
+    {
+      "id": "grid",
+      "quantity": "Grid",
+      "value": 1.0,
+      "unit": "m",
+      "tag": "CANON",
+      "owner": "unit-canon",
+      "unit_canon_key": "meters_per_grid",
+      "pass": "1.0 m from Unit-canon",
+      "fail": ["magic lengths in graphs"]
+    },
+    {
+      "id": "deck",
+      "quantity": "Deck",
+      "value": 3.0,
+      "unit": "m",
+      "tag": "CANON",
+      "owner": "unit-canon",
+      "unit_canon_key": "deck_height",
+      "pass": "3.0 m from Unit-canon",
+      "fail": ["magic lengths in graphs"]
+    },
+    {
+      "id": "airlock",
+      "quantity": "Airlock",
+      "value": 1.0,
+      "unit": "m",
+      "tag": "CANON",
+      "owner": "unit-canon",
+      "unit_canon_key": "airlock_diameter",
+      "pass": "1.0 m from Unit-canon",
+      "fail": ["magic lengths in graphs"]
+    },
+    {
+      "id": "human-figure",
+      "quantity": "Human figure",
+      "value": 1.8,
+      "unit": "m",
+      "tag": "CANON",
+      "owner": "unit-canon",
+      "unit_canon_key": "human_figure.standing_height",
+      "pass": "1.80 m from Unit-canon",
+      "fail": ["magic lengths in graphs"]
+    }
+  ],
+  "rejects": [
+    {
+      "id": "earth-noon-exterior",
+      "statement": "Exterior reads as Earth noon: flux ignored or Sol lighting on a Kepler cell."
+    },
+    {
+      "id": "gold-foil-default-space",
+      "statement": "Gold foil plus deep blue shadows as default space: palette standing in for 27.3 W/m²."
+    },
+    {
+      "id": "virtually-invisible-exterior",
+      "statement": "Exterior captioned as virtually invisible: 2% of S☉ treated as zero."
+    },
+    {
+      "id": "shirtsleeve-balcony",
+      "statement": "Breathable balcony with no visor and no heat: 120 K ignored."
+    },
+    {
+      "id": "every-rack-120k",
+      "statement": "Every rack labelled 120 K: active plant confused with passive Teq."
+    },
+    {
+      "id": "sol-white-star",
+      "statement": "Star is white and small like Sol: K2 / 0.26 L☉ ignored."
+    },
+    {
+      "id": "kilometer-cell-no-joints",
+      "statement": "Cell spans kilometers with no joints: Unit-canon / one-cell rule ignored."
+    },
+    {
+      "id": "key-art-body-as-planet",
+      "statement": "Large planet-shaped body labeled 62e or 62f, or irregular silhouette captioned as a planet."
+    },
+    {
+      "id": "distant-marks-as-habitat-kit",
+      "statement": "Distant diamond marks treated as the Habitat-kit mesh."
+    },
+    {
+      "id": "relic-as-dead-swarm",
+      "statement": "Relic cell captioned as the dead swarm."
+    },
+    {
+      "id": "vacuum-oxidation-default",
+      "statement": "Vacuum hull oxidised with no environment: oxidation used as default weathering."
+    },
+    {
+      "id": "rigid-lattice",
+      "statement": "Cells welded into a rigid lattice: independent-orbit rule ignored."
+    },
+    {
+      "id": "living-crew-hop",
+      "statement": "Living crew or a generation ship as the hop design."
+    },
+    {
+      "id": "civilisation-on-gram-probe",
+      "statement": "A civilisation running on one gram-class probe."
+    }
+  ]
+}
