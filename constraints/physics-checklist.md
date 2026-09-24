@@ -118,6 +118,8 @@ Interstellar gas and dust at 0.2c are a damage term. Ignore-erosion briefs fail.
 | Large planet-shaped body labeled 62e or 62f | Key-art retcon |
 | Large irregular silhouette captioned as a planet | Fights `stills/01-eclipse.jpg` / `03-inward.jpg` |
 | Distant diamond marks treated as the Habitat-kit mesh | Scale / one-cell rule ignored |
+| Launch-era diamond sails treated as Kepler cells, or the reverse | Two still families swapped |
+| Earth-limb launch still captioned as Kepler-62 | Sol / Kepler split ignored |
 | Relic cell captioned as the dead swarm | Featured-cell rule ignored |
 | Vacuum hull "oxidised" with no environment | Oxidation used as default weathering |
 | Cells welded into a rigid lattice | Independent-orbit rule ignored |

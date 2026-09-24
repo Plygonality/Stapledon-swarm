@@ -1,6 +1,6 @@
 # Probes
 
-Authoritative payload, picotechnology, launch family, and hop limits. Wiki summaries link here. Launch integrals: [`appendix-launch.md`](appendix-launch.md). Script: [`../calc/lightsail.py`](../calc/lightsail.py).
+Authoritative payload, picotechnology, launch family, hop limits, and launch-era look-dev. Wiki summaries link here. Launch integrals: [`appendix-launch.md`](appendix-launch.md). Script: [`../calc/lightsail.py`](../calc/lightsail.py). Launch stills: [`../stills/README.md`](../stills/README.md).
 
 ## 1. Origin programme
 
@@ -93,7 +93,7 @@ Authoritative payload, picotechnology, launch family, and hop limits. Wiki summa
 
 **CANON.** Adopted engineering targets inside the fiction, not demonstrated hardware.
 
-Assumptions: probe body 1–10 g; effective deployed sail-system areal density 0.1 g/m²; sail-system mass equals probe-body mass; effective loading includes the membrane and its allocated deployment / support system; nominal initial beam intensity 10 GW/m²; ideal near-perfect reflection for the baseline; circular sail for quoted diameters.
+Assumptions: probe body 1–10 g; effective deployed sail-system areal density 0.1 g/m²; sail-system mass equals probe-body mass; effective loading includes the membrane and its allocated deployment / support system; nominal initial beam intensity 10 GW/m²; ideal near-perfect reflection for the baseline; circular sail for quoted diameters (equivalent-area figures; look-dev planform is diamond, §11).
 
 | Probe body | Sail area | Diameter | Sail-system mass | Total launch mass | Nominal beam power |
 | --- | --- | --- | --- | --- | --- |
@@ -156,3 +156,41 @@ Research directions, none of them canon: a later-built in-system beamer whose ow
 **CANON.** Bible 0.3.0 used constant ~0.001 g burns, ~198 yr per burn, ~5 106 yr total, and a 7191–7201 A.D. arrival band. That default is withdrawn.
 
 Keep those figures only as labelled history. Do not add the old 194- or 198-year braking burn unless a compatible braking system is specified and justified.
+
+## 11. Launch-era look-dev
+
+Stills: [`../stills/04-boom.jpg`](../stills/04-boom.jpg), [`../stills/05-cross.jpg`](../stills/05-cross.jpg), [`../stills/06-face.jpg`](../stills/06-face.jpg), [`../stills/07-fleet.jpg`](../stills/07-fleet.jpg). Captions: [`wiki.md`](wiki.md) §13.4–13.7.
+
+**CANON.** Those four frames depict original probes leaving Earth in the 2085–2095 A.D. window. They are Sol-departure stills. Earth is Earth.
+
+**CANON.** Look-dev planform: square-on-point (diamond) membrane, four spars, gram-class body at the hub. Edge-on the stack reads as a thin cross.
+
+**CANON.** The adopted family table quotes circular diameters as equivalent-area figures. Those rows do not require a circular membrane in the stills.
+
+**INFERENCE.** A square of equal area has a longer diagonal than the circular diameter. The diffraction note in §9 and [`appendix-launch.md`](appendix-launch.md) stays an order-of-magnitude check against the circular row. It is not re-fit to the diamond.
+
+**CANON.** The stills do not lock sail area, boom length, membrane thickness, chassis bay count, or whether the sail stays attached after the boost.
+
+**CANON.** Marks on the reflective face are look-dev illumination. They do not lock beam count, wavelength, aperture, or pointing. Those stay OPEN as in §9.
+
+**CANON.** A fleet frame may show a handful of units. Visible count is camera selection. A batch is still of order 1 000.
+
+**CANON.** Launch diamonds are gram-class sails at Sol. Kepler key-art diamonds are system-scale cell silhouettes. Do not swap the two.
+
+**CANON.** Dark bays on the hub in `04-boom` are look-dev on the body and support. They do not enlarge the 1–10 g body budget.
+
+![Hub, chassis, and four spars](../stills/04-boom.jpg)
+
+*`04-boom`. Close. Hub, chassis, four spars. Earth faint.*
+
+![Edge-on cross against Earth](../stills/05-cross.jpg)
+
+*`05-cross`. Far. Edge-on cross on Earth's disk.*
+
+![Reflective diamond sail face](../stills/06-face.jpg)
+
+*`06-face`. Close. Reflective diamond face. Marks are look-dev.*
+
+![Fleet against Earth's limb](../stills/07-fleet.jpg)
+
+*`07-fleet`. Wide. Several diamonds on Earth's limb. Visible count is not batch size.*

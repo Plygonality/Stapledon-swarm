@@ -201,6 +201,14 @@
       "statement": "Distant diamond marks treated as the Habitat-kit mesh."
     },
     {
+      "id": "launch-sail-as-cell",
+      "statement": "Launch-era diamond lightsails treated as Kepler cell silhouettes, or Kepler cell marks treated as gram-class sails."
+    },
+    {
+      "id": "earth-launch-as-kepler",
+      "statement": "Earth-limb launch still captioned as Kepler-62, or a Kepler system still captioned as Sol departure."
+    },
+    {
       "id": "relic-as-dead-swarm",
       "statement": "Relic cell captioned as the dead swarm."
     },

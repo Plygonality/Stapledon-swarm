@@ -34,7 +34,7 @@ Hop hardware: 1–10 g probe body, sail system as extra mass, dormant WBE and AS
 
 ## Sol vs Kepler
 
-Sol is origin. Kepler-62 is one distant branch of a late-21st-century expansion programme. G2 lighting on a Kepler cell is wrong. Earth-flux panels on a 0.020 S☉ / 27.3 W/m² orbit are not operational. Label the split if a still could be misread.
+Sol is origin. Kepler-62 is one distant branch of a late-21st-century expansion programme. G2 lighting on a Kepler cell is wrong. Earth-flux panels on a 0.020 S☉ / 27.3 W/m² orbit are not operational. Label the split if a still could be misread. Sol launch stills may show Earth. Do not caption them as Kepler-62.
 
 ## Speed and launch
 
@@ -68,7 +68,7 @@ Do not fill them in a still brief, a graph comment, or a README aside. Promote o
 
 ## Artwork
 
-Key-art: [`../stills/`](../stills/). Those three files are caches, tracked with Git LFS. Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not dump Habitat-kit production notes into `bible/`.
+Key-art: [`../stills/`](../stills/). Two families, tracked with Git LFS: Kepler system (`01`–`03`) and Sol launch (`04`–`07`). Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Do not caption launch stills as Kepler-62. Launch diamonds are not cell silhouettes. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not dump Habitat-kit production notes into `bible/`.
 
 ## Tags
 

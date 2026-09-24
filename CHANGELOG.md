@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.6.0, 2026-09-24
+
+Launch-era stills. Original probes leaving Earth, 2085–2095 A.D.
+
+- Four Sol-departure stills in `stills/`: `04-boom.jpg`, `05-cross.jpg`, `06-face.jpg`, `07-fleet.jpg`. Embedded with captions in README, `stills/README.md`, wiki §13.4–13.7, and `probes.md` §11.
+- Look-dev planform locked: diamond (square-on-point) membrane, four spars, gram-class hub. Edge-on reads as a thin cross.
+- Adopted family table still quotes circular diameters as equivalent-area figures. Diffraction note stays on the circular 1 g row.
+- Launch diamonds are not Kepler cell silhouettes. Earth in these frames is Earth.
+- Face marks are look-dev illumination. They do not lock beam count or aperture (OPEN item 3 stands).
+- Fleet visible count is camera selection. Batch size stays of order 1 000.
+- Stills do not lock sail metres, boom length, membrane thickness, chassis bay count, retention after boost, or a day inside 2085–2095.
+- Production map, project rules, and physics rejects updated for the Sol-launch / Kepler-system split.
+- No OPEN item filled.
+
 ## 0.5.0, 2026-09-15
 
 Split what is context from what CI can fail.

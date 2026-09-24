@@ -63,7 +63,7 @@ Pre-launch rows are programme history. They are fiction, not forecasts.
 | 2065–2076 | Picotechnology, as defined in [`probes.md`](probes.md), reaches usable fabrication, storage, and control. | Established fiction |
 | 2072–2082 | Precursor systems build and repair at selected Solar System sites. Some trials fail on local feedstocks. Laser-launch infrastructure begins. | Established fiction |
 | 2078–2085 | Archive assembly, mind recruitment, replication and activation rules. | Established fiction |
-| 2085–2095 | About one billion original probes dispatched in batches of thousands. Founding event. | Established fiction |
+| 2085–2095 | About one billion original probes dispatched in batches of thousands. Founding event. Launch stills `04-boom` / `05-cross` / `06-face` / `07-fleet` depict this window near Earth, not Kepler arrival. | Established fiction |
 | Late 2080s–2200 | Local Solar System branches expand. Earth sees local return. Interstellar hops remain long commitments. | Established fiction |
 | 2300–6900 | Nearer settlements may evolve, launch descendants, and exchange delayed mail. Whether any of that precedes original Kepler probes is OPEN. | Provisional |
 | 6995–7005 | Unbraked passage of original Kepler batches near the target, if they are still coasting at 0.2c. | Model-derived |
