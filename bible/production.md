@@ -64,54 +64,51 @@ Rejected:
 
 `stills/` is a cache of key-art, two families (Git LFS). Blend-ci does not cook them. Habitat-kit does not rebuild them. Habitat Cuts are generated from Habitat-kit. Captions: [`wiki.md`](wiki.md) §13.
 
-| Still | File | Owner | Camera |
-| --- | --- | --- | --- |
-| Eclipse | [`stills/01-eclipse.jpg`](../stills/01-eclipse.jpg) | This repo | Kepler system. Large irregular body ≠ b–f. Independent cells, not a rigid lattice. |
-| Lattice | [`stills/02-lattice.jpg`](../stills/02-lattice.jpg) | This repo | Kepler system. Receding geometric cells. Filename does not lock a grid. |
-| Inward | [`stills/03-inward.jpg`](../stills/03-inward.jpg) | This repo | Kepler system. Independent cells on the disk. Small circular transit is a different object. |
-| Boom | [`stills/04-boom.jpg`](../stills/04-boom.jpg) | This repo | Sol launch. Hub, chassis, four spars. Earth faint. |
-| Cross | [`stills/05-cross.jpg`](../stills/05-cross.jpg) | This repo | Sol launch. Edge-on cross on Earth's disk. |
-| Face | [`stills/06-face.jpg`](../stills/06-face.jpg) | This repo | Sol launch. Reflective diamond face. Marks are look-dev. |
-| Fleet | [`stills/07-fleet.jpg`](../stills/07-fleet.jpg) | This repo | Sol launch. Several diamonds on Earth's limb. Visible count is not batch size. |
-| Construction cell | Habitat-kit `screenshots/construction/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Unshot here. |
-| Operational cell | Habitat-kit `screenshots/operational/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Unshot here. |
-| Relic cell | Habitat-kit `screenshots/relic/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Empty habitation + protected archive plant. Unshot here. |
-
-Distant Kepler cells in `01`–`03` read as sharp dark polygons. System-scale silhouette. Habitat-kit instances one airlock / deck-bay / truss / hatch cell.
-
-Launch diamonds in `04`–`07` are gram-class sails at Sol. Do not map them as Kepler cells. Do not apply 27.3 W/m² Kepler fill to those frames. Earth / G2 is correct there.
+Each cached frame is shown below. Owner is this repo. Habitat Cuts stay unshot here.
 
 ### Kepler system
 
-![Eclipse](../stills/01-eclipse.jpg)
+![Eclipse: irregular body on the Kepler-62 disk, cell veil](../stills/01-eclipse.jpg)
 
-*`01-eclipse`. System. Large irregular body ≠ b–f. Independent cell veils. K disk.*
+*`01-eclipse`. Kepler system. Large irregular body ≠ b–f. Independent cells, not a rigid lattice.*
 
-![Lattice](../stills/02-lattice.jpg)
+![Lattice: receding geometric cells, K disk in the corner](../stills/02-lattice.jpg)
 
-*`02-lattice`. System. Receding geometric cells. Filename does not lock a grid. Those diamonds are cells, not launch sails.*
+*`02-lattice`. Kepler system. Receding geometric cells. Filename does not lock a grid. Those diamonds are cells, not launch sails.*
 
-![Inward](../stills/03-inward.jpg)
+![Inward: cells on the disk, irregular foreground body](../stills/03-inward.jpg)
 
-*`03-inward`. System. Independent cells on the disk. Small circular transit is a different object.*
+*`03-inward`. Kepler system. Independent cells on the disk. Small circular transit is a different object.*
+
+Distant cells in `01`–`03` read as sharp dark polygons. System-scale silhouette. Habitat-kit instances one airlock / deck-bay / truss / hatch cell.
 
 ### Sol launch
 
-![Boom](../stills/04-boom.jpg)
+![Boom: hub, chassis, and four spars, Earth faint](../stills/04-boom.jpg)
 
-*`04-boom`. Sol. Hub, chassis, four spars. Earth faint. Look-dev for the dispatched `origin=sol` stack.*
+*`04-boom`. Sol launch. Hub, chassis, four spars. Earth faint. Look-dev for the dispatched `origin=sol` stack.*
 
-![Cross](../stills/05-cross.jpg)
+![Cross: edge-on lightsail on Earth's disk](../stills/05-cross.jpg)
 
-*`05-cross`. Sol. Edge-on cross on Earth's disk. G2 / Earth limb is correct here.*
+*`05-cross`. Sol launch. Edge-on cross on Earth's disk. G2 / Earth limb is correct here.*
 
-![Face](../stills/06-face.jpg)
+![Face: reflective diamond sail](../stills/06-face.jpg)
 
-*`06-face`. Sol. Reflective diamond face. Marks are look-dev. Do not lock beam count from them.*
+*`06-face`. Sol launch. Reflective diamond face. Marks are look-dev. Do not lock beam count from them.*
 
-![Fleet](../stills/07-fleet.jpg)
+![Fleet: diamond sails on Earth's limb](../stills/07-fleet.jpg)
 
-*`07-fleet`. Sol. Several diamonds on Earth's limb. Visible count is not batch size. Do not map as Kepler cells.*
+*`07-fleet`. Sol launch. Several diamonds on Earth's limb. Visible count is not batch size. Do not map as Kepler cells.*
+
+Launch diamonds in `04`–`07` are gram-class sails at Sol. Do not map them as Kepler cells. Do not apply 27.3 W/m² Kepler fill to those frames. Earth / G2 is correct there.
+
+### Habitat Cuts (unshot here)
+
+| Cut | Where | Camera |
+| --- | --- | --- |
+| Construction cell | Habitat-kit `screenshots/construction/` | Cell. Generated from Habitat-kit. Unshot here. |
+| Operational cell | Habitat-kit `screenshots/operational/` | Cell. Generated from Habitat-kit. Unshot here. |
+| Relic cell | Habitat-kit `screenshots/relic/` | Cell. Empty habitation + protected archive plant. Unshot here. |
 
 If look-dev is chasing these frames:
 
