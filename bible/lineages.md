@@ -34,18 +34,18 @@ That is an institutional conflict. It is not a fourth Time-slice epoch.
 
 **CANON.** Launch-era diamonds in `04`–`07` are gram-class sails at Sol. They are a different class from those cell marks.
 
-![Reflective diamond sail, launch-decade hardware](../stills/06-face.jpg)
+![Reflective diamond sail, launch-decade hardware](../stills/display/06-face.jpg)
 
 *`06-face`. Ancestral Sol stack. Diamond sail, four spars, gram-class hub. Construction-system versions in this decade become lineages. Do not stamp lineage names on the sail.*
 
-![Hub and four spars](../stills/04-boom.jpg)
+![Hub and four spars](../stills/display/04-boom.jpg)
 
 *`04-boom`. Shared four-boom layout. Later Kepler cells inherit joints and service language, not this gossamer frame as a Habitat-kit mesh.*
 
-![Fleet leaving Earth](../stills/07-fleet.jpg)
+![Fleet leaving Earth](../stills/display/07-fleet.jpg)
 
 *`07-fleet`. Several versions can leave in one window. A batch is one dispatch event. Visible count is not how many lineages exist.*
 
-![Distant Kepler cell silhouettes](../stills/02-lattice.jpg)
+![Distant Kepler cell silhouettes](../stills/display/02-lattice.jpg)
 
 *`02-lattice`. Destination, much later. Sharp diamond / arrowhead marks here are independently orbiting cells. They are not the launch sails above and not a lineage-coded Habitat-kit mesh.*

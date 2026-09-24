@@ -73,19 +73,19 @@ Pre-launch rows are programme history. They are fiction, not forecasts.
 
 **CANON.** The four launch stills depict the 2085–2095 A.D. dispatch near Earth. They do not lock a day inside that window. They are not Kepler arrival frames.
 
-![Fleet against Earth's limb](../stills/07-fleet.jpg)
+![Fleet against Earth's limb](../stills/display/07-fleet.jpg)
 
 *`07-fleet`. Founding window. Batches of thousands; this frame shows a handful. Visible count is camera selection.*
 
-![Hub, chassis, and four spars](../stills/04-boom.jpg)
+![Hub, chassis, and four spars](../stills/display/04-boom.jpg)
 
 *`04-boom`. Close. Hardware of that decade. Earth faint.*
 
-![Edge-on cross on Earth's disk](../stills/05-cross.jpg)
+![Edge-on cross on Earth's disk](../stills/display/05-cross.jpg)
 
 *`05-cross`. Far. Leaving Earth. The 226 s boost is negligible on this historical table.*
 
-![Reflective diamond sail face](../stills/06-face.jpg)
+![Reflective diamond sail face](../stills/display/06-face.jpg)
 
 *`06-face`. Close. Laser-driven lightsail. Face marks are look-dev. They do not lock the beam.*
 

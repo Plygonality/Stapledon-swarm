@@ -64,19 +64,19 @@ Rejected:
 
 `stills/` is a cache of key-art, two families (Git LFS). Blend-ci does not cook them. Habitat-kit does not rebuild them. Habitat Cuts are generated from Habitat-kit. Captions: [`wiki.md`](wiki.md) §13.
 
-Each cached frame is shown below. Owner is this repo. Habitat Cuts stay unshot here.
+Each cached frame is shown below as a 1600 px display copy from [`../stills/display/`](../stills/display/). Owner is this repo. The full render is the same filename in [`../stills/`](../stills/). Habitat Cuts stay unshot here.
 
 ### Kepler system
 
-![Eclipse: irregular body on the Kepler-62 disk, cell veil](../stills/01-eclipse.jpg)
+![Eclipse: irregular body on the Kepler-62 disk, cell veil](../stills/display/01-eclipse.jpg)
 
 *`01-eclipse`. Kepler system. Large irregular body ≠ b–f. Independent cells, not a rigid lattice.*
 
-![Lattice: receding geometric cells, K disk in the corner](../stills/02-lattice.jpg)
+![Lattice: receding geometric cells, K disk in the corner](../stills/display/02-lattice.jpg)
 
 *`02-lattice`. Kepler system. Receding geometric cells. Filename does not lock a grid. Those diamonds are cells, not launch sails.*
 
-![Inward: cells on the disk, irregular foreground body](../stills/03-inward.jpg)
+![Inward: cells on the disk, irregular foreground body](../stills/display/03-inward.jpg)
 
 *`03-inward`. Kepler system. Independent cells on the disk. Small circular transit is a different object.*
 
@@ -84,19 +84,19 @@ Distant cells in `01`–`03` read as sharp dark polygons. System-scale silhouett
 
 ### Sol launch
 
-![Boom: hub, chassis, and four spars, Earth faint](../stills/04-boom.jpg)
+![Boom: hub, chassis, and four spars, Earth faint](../stills/display/04-boom.jpg)
 
 *`04-boom`. Sol launch. Hub, chassis, four spars. Earth faint. Look-dev for the dispatched `origin=sol` stack.*
 
-![Cross: edge-on lightsail on Earth's disk](../stills/05-cross.jpg)
+![Cross: edge-on lightsail on Earth's disk](../stills/display/05-cross.jpg)
 
 *`05-cross`. Sol launch. Edge-on cross on Earth's disk. G2 / Earth limb is correct here.*
 
-![Face: reflective diamond sail](../stills/06-face.jpg)
+![Face: reflective diamond sail](../stills/display/06-face.jpg)
 
 *`06-face`. Sol launch. Reflective diamond face. Marks are look-dev. Do not lock beam count from them.*
 
-![Fleet: diamond sails on Earth's limb](../stills/07-fleet.jpg)
+![Fleet: diamond sails on Earth's limb](../stills/display/07-fleet.jpg)
 
 *`07-fleet`. Sol launch. Several diamonds on Earth's limb. Visible count is not batch size. Do not map as Kepler cells.*
 
@@ -153,11 +153,11 @@ Sol-built prop (gram-class probe body, archive canister, sail remnant): tag `ori
 
 Launch stills `04`–`07` are the look-dev for the dispatched Sol stack (body + sail). A later `origin=sol` remnant on a Kepler cell is a different state. Do not dress the remnant as a full diamond sail unless a brief says the sail stayed attached (OPEN).
 
-![Dispatched Sol stack, sail face](../stills/06-face.jpg)
+![Dispatched Sol stack, sail face](../stills/display/06-face.jpg)
 
 *`06-face`. Full sail + hub. This is the launch stack, not a remnant.*
 
-![Dispatched Sol stack, hub closeup](../stills/04-boom.jpg)
+![Dispatched Sol stack, hub closeup](../stills/display/04-boom.jpg)
 
 *`04-boom`. Body and spars. Tag `origin=sol` if this hardware later appears on a Kepler cell.*
 

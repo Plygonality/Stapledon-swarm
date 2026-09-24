@@ -6,6 +6,7 @@ Launch-era stills. Original probes leaving Earth, 2085–2095 A.D.
 
 - Four Sol-departure stills in `stills/`: `04-boom.jpg`, `05-cross.jpg`, `06-face.jpg`, `07-fleet.jpg`. Embedded inline in README (gallery + binding numbers), `stills/README.md`, wiki §13.4–13.7, `probes.md` §1–2 / §7–8 / §11, `chronology.md` §5, `lineages.md` visual use, and `production.md` §4 / §7.
 - `production.md` still map shows the frames as images. The old File column of links is gone. Habitat Cuts stay a table because they are unshot here.
+- Page embeds use `stills/display/` (1600 px, ordinary git files). Full renders stay Git LFS. The full 6240 px frames were not showing in the phone view.
 - Look-dev planform locked: diamond (square-on-point) membrane, four spars, gram-class hub. Edge-on reads as a thin cross.
 - Adopted family table still quotes circular diameters as equivalent-area figures. Diffraction note stays on the circular 1 g row.
 - Launch diamonds are not Kepler cell silhouettes. Earth in these frames is Earth.

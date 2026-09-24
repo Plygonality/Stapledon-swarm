@@ -16,7 +16,7 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** The programme is fiction. It becomes possible through accelerated fictional work on human whole-brain emulation, ASI, consensual integrations of human-derived minds and artificial intelligences, extremely compact manufacturing and storage, and abiogenesis / biological reconstruction. Those are setting premises, not forecasts.
 
-![Fleet of diamond lightsails leaving Earth's limb](../stills/07-fleet.jpg)
+![Fleet of diamond lightsails leaving Earth's limb](../stills/display/07-fleet.jpg)
 
 *`07-fleet`. 2085–2095 A.D. Batches of thousands. This frame shows a handful. Visible count is camera selection, not the billion and not the batch size.*
 
@@ -32,7 +32,7 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **OPEN.** Whether the sail remains attached after the boost.
 
-![Hub, chassis, and four spars](../stills/04-boom.jpg)
+![Hub, chassis, and four spars](../stills/display/04-boom.jpg)
 
 *`04-boom`. Close. 1–10 g body at the hub. Dark bays are look-dev. They do not enlarge the body budget. Sail system is extra and may be out of key.*
 
@@ -97,7 +97,7 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** 0.2c is both the adopted maximum and the coast speed of the original Kepler hop. It is not the trip-average speed if braking later occurs. 982 yr is light-travel, not ship time.
 
-![Edge-on lightsail as a thin bright cross against Earth](../stills/05-cross.jpg)
+![Edge-on lightsail as a thin bright cross against Earth](../stills/display/05-cross.jpg)
 
 *`05-cross`. Dispatch and deploy, then laser boost. Membrane so thin it reads as a cross. Not a solar-wind sail. Not sunlight alone to 0.2c.*
 
@@ -121,7 +121,7 @@ Assumptions: probe body 1–10 g; effective deployed sail-system areal density 0
 
 **INFERENCE.** Lower beam intensity, different loading, or a different acceleration distance produce different designs.
 
-![Reflective diamond lightsail, square-on-point](../stills/06-face.jpg)
+![Reflective diamond lightsail, square-on-point](../stills/display/06-face.jpg)
 
 *`06-face`. Look-dev planform is diamond. Table diameters above stay circular-equivalent. Face marks are look-dev illumination. They do not lock beam count or aperture.*
 
@@ -195,18 +195,18 @@ Stills: [`../stills/04-boom.jpg`](../stills/04-boom.jpg), [`../stills/05-cross.j
 
 **CANON.** Dark bays on the hub in `04-boom` are look-dev on the body and support. They do not enlarge the 1–10 g body budget.
 
-![Hub, chassis, and four spars](../stills/04-boom.jpg)
+![Hub, chassis, and four spars](../stills/display/04-boom.jpg)
 
 *`04-boom`. Close. Hub, chassis, four spars. Earth faint.*
 
-![Edge-on cross against Earth](../stills/05-cross.jpg)
+![Edge-on cross against Earth](../stills/display/05-cross.jpg)
 
 *`05-cross`. Far. Edge-on cross on Earth's disk.*
 
-![Reflective diamond sail face](../stills/06-face.jpg)
+![Reflective diamond sail face](../stills/display/06-face.jpg)
 
 *`06-face`. Close. Reflective diamond face. Marks are look-dev.*
 
-![Fleet against Earth's limb](../stills/07-fleet.jpg)
+![Fleet against Earth's limb](../stills/display/07-fleet.jpg)
 
 *`07-fleet`. Wide. Several diamonds on Earth's limb. Visible count is not batch size.*

@@ -210,7 +210,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** Do not move that silhouette onto planets b–f. Do not label it 62e or 62f so the still "reads".
 
-![01-eclipse: irregular key-art body against Kepler-62](../stills/01-eclipse.jpg)
+![01-eclipse: irregular key-art body against Kepler-62](../stills/display/01-eclipse.jpg)
 
 *The large body. Irregular, non-spherical, blocky / cutout edges. Not a circular planet disk. Not Kepler-62b–f. Identity and name stay OPEN.*
 
@@ -228,7 +228,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ### 13.1 Eclipse. `stills/01-eclipse.jpg`
 
-![Kepler-62 with an irregular silhouette on the disk and a cell veil](../stills/01-eclipse.jpg)
+![Kepler-62 with an irregular silhouette on the disk and a cell veil](../stills/display/01-eclipse.jpg)
 
 *Wide. Star in the middle. Kepler-62 as an orange-yellow K disk, granulation and prominences. Large irregular body in silhouette on the disk. Planets b–f are out. Swarm as stacked veils of independently orbiting dark cells, not a rigid lattice. Radial traces can cut the veil. Key is the star. Cell count and fill stay OPEN.*
 
@@ -236,7 +236,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ### 13.2 Lattice. `stills/02-lattice.jpg`
 
-![Rows of dark geometric cells receding, K-disk in the upper right](../stills/02-lattice.jpg)
+![Rows of dark geometric cells receding, K-disk in the upper right](../stills/display/02-lattice.jpg)
 
 *Wide. Star in a corner. K disk. Distant cells as repeated sharp silhouettes (arrowhead, diamond, triangular). Apparent rows are a camera effect on independent orbits, not a rigid lattice. Faint red traces, red-brown haze are fine. Small circular disk may sit on the limb. That disk is not the large body. Planet letter stays OPEN. Marks are distant silhouettes.*
 
@@ -244,7 +244,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ### 13.3 Inward. `stills/03-inward.jpg`
 
-![Looking inward: lattice on the disk, small circular transit, irregular body in the foreground](../stills/03-inward.jpg)
+![Looking inward: lattice on the disk, small circular transit, irregular body in the foreground](../stills/display/03-inward.jpg)
 
 *Camera already inside the swarm. Fine field of independent cells across the disk. Same class of irregular foreground body as 13.1. Small circular transit on the star is a different object. Do not pick a planet letter. This is not a Habitat Cut.*
 
@@ -258,7 +258,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ### 13.4 Boom. `stills/04-boom.jpg`
 
-![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](../stills/04-boom.jpg)
+![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](../stills/display/04-boom.jpg)
 
 *Close. Hub and chassis. Four long spars. Thin truss. Dark bays on the body are look-dev, not a mass-row change. Sail membrane may be out of key. Earth limb faint behind. 2085–2095 A.D. window, not a locked day.*
 
@@ -266,7 +266,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ### 13.5 Cross. `stills/05-cross.jpg`
 
-![Edge-on lightsail as a thin bright cross against Earth's disk](../stills/05-cross.jpg)
+![Edge-on lightsail as a thin bright cross against Earth's disk](../stills/display/05-cross.jpg)
 
 *Far. Edge-on. Membrane so thin it reads as a bright cross. Hub as a speck. Earth disk and atmosphere limb. An unlit face may sit as a dark diamond.*
 
@@ -274,7 +274,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ### 13.6 Face. `stills/06-face.jpg`
 
-![Reflective diamond lightsail, square-on-point, four circular illumination marks](../stills/06-face.jpg)
+![Reflective diamond lightsail, square-on-point, four circular illumination marks](../stills/display/06-face.jpg)
 
 *Close. Reflective diamond membrane, square-on-point. Four spars. Hub at centre. Soft circular marks on the face are look-dev illumination. They do not lock beam count, wavelength, or aperture.*
 
@@ -282,7 +282,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ### 13.7 Fleet. `stills/07-fleet.jpg`
 
-![Several diamond lightsails as dark silhouettes against Earth's limb](../stills/07-fleet.jpg)
+![Several diamond lightsails as dark silhouettes against Earth's limb](../stills/display/07-fleet.jpg)
 
 *Wide. Earth's limb. Several diamond silhouettes at different distances. Nearest may show a bright hub. Visible count is camera selection. A batch is still of order 1 000.*
 

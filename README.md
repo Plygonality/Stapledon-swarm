@@ -13,33 +13,33 @@ Key-art caches. These are not Habitat Cuts. Kepler system stills: the large irre
 
 ### Leaving Earth, 2085–2095 A.D.
 
-![Several diamond lightsails as dark silhouettes against Earth's limb](stills/07-fleet.jpg)
+![Several diamond lightsails as dark silhouettes against Earth's limb](stills/display/07-fleet.jpg)
 
 *`07-fleet`. Founding dispatch. Earth's limb. Several diamond lightsails. Visible count is camera selection, not batch size.*
 
-![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](stills/04-boom.jpg)
+![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](stills/display/04-boom.jpg)
 
 *`04-boom`. Close. Hub, chassis, four spars. Dark bays are look-dev, not a mass-row change. Earth limb faint.*
 
-![Edge-on lightsail as a thin bright cross against Earth's disk](stills/05-cross.jpg)
+![Edge-on lightsail as a thin bright cross against Earth's disk](stills/display/05-cross.jpg)
 
 *`05-cross`. Far. Edge-on. Membrane reads as a bright cross. Hub as a speck. Earth disk and atmosphere limb.*
 
-![Reflective diamond lightsail, square-on-point, four circular illumination marks](stills/06-face.jpg)
+![Reflective diamond lightsail, square-on-point, four circular illumination marks](stills/display/06-face.jpg)
 
 *`06-face`. Close. Reflective diamond membrane, square-on-point. Face marks are look-dev illumination. They do not lock the beam.*
 
 ### Kepler-62 swarm
 
-![Kepler-62 with an irregular silhouette on the disk and a cell veil](stills/01-eclipse.jpg)
+![Kepler-62 with an irregular silhouette on the disk and a cell veil](stills/display/01-eclipse.jpg)
 
 *`01-eclipse`. Wide. Star in the middle. Kepler-62 as a K disk, prominences visible. Large irregular body in silhouette (planets b–f are out). Swarm sits as stacked veils of independently orbiting cells.*
 
-![Rows of dark geometric cells receding, K-disk in the upper right](stills/02-lattice.jpg)
+![Rows of dark geometric cells receding, K-disk in the upper right](stills/display/02-lattice.jpg)
 
 *`02-lattice`. Star shoved into a corner. Distant cells as repeated sharp silhouettes. Apparent rows are a camera effect, not a rigid lattice. Faint red traces, some haze. Small circular disk on the limb, if you see one, is not the large body.*
 
-![Looking inward: lattice on the disk, small circular transit, irregular body in the foreground](stills/03-inward.jpg)
+![Looking inward: lattice on the disk, small circular transit, irregular body in the foreground](stills/display/03-inward.jpg)
 
 *`03-inward`. Camera already inside the swarm. Fine field of independent cells across the disk. Same irregular foreground body. Small circular transit is a different object. Habitat Cuts are not this shot.*
 
@@ -122,19 +122,19 @@ Lengths below are for reading. Source file is Unit-canon. Edit there: https://gi
 
 The founding-launch and probe-body rows are the Sol stack in these frames. Sail extra. Not Kepler arrival.
 
-![Fleet leaving Earth's limb in the founding window](stills/07-fleet.jpg)
+![Fleet leaving Earth's limb in the founding window](stills/display/07-fleet.jpg)
 
 *`07-fleet`. 2085–2095 A.D. near Earth. Visible count is not batch size.*
 
-![Reflective diamond sail of a gram-class probe](stills/06-face.jpg)
+![Reflective diamond sail of a gram-class probe](stills/display/06-face.jpg)
 
 *`06-face`. 1–10 g body at the hub. Diamond is look-dev. Table diameters stay circular-equivalent.*
 
-![Hub and four spars](stills/04-boom.jpg)
+![Hub and four spars](stills/display/04-boom.jpg)
 
 *`04-boom`. Body and support. Dark bays do not enlarge the 1–10 g budget.*
 
-![Edge-on cross on Earth's disk](stills/05-cross.jpg)
+![Edge-on cross on Earth's disk](stills/display/05-cross.jpg)
 
 *`05-cross`. Laser-driven lightsail after deploy. Not a solar-wind sail.*
 

@@ -78,7 +78,7 @@
     {
       "id": "artwork-caches",
       "tag": "CANON",
-      "statement": "Key-art in stills/ is a cache, tracked with Git LFS. Two families: Kepler system (01–03) and Sol launch (04–07). Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not add stills to close an OPEN item."
+      "statement": "Key-art in stills/ is a cache, tracked with Git LFS. Two families: Kepler system (01–03) and Sol launch (04–07). Pages embed the 1600 px copies in stills/display/, ordinary git files. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not add stills to close an OPEN item."
     },
     {
       "id": "production-notes-live-in-habitat-kit",

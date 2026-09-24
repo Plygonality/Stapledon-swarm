@@ -68,7 +68,7 @@ Do not fill them in a still brief, a graph comment, or a README aside. Promote o
 
 ## Artwork
 
-Key-art: [`../stills/`](../stills/). Two families, tracked with Git LFS: Kepler system (`01`–`03`) and Sol launch (`04`–`07`). Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Do not caption launch stills as Kepler-62. Launch diamonds are not cell silhouettes. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not dump Habitat-kit production notes into `bible/`.
+Key-art: [`../stills/`](../stills/). Two families, tracked with Git LFS: Kepler system (`01`–`03`) and Sol launch (`04`–`07`). Pages embed the 1600 px copies in [`../stills/display/`](../stills/display/), ordinary git files, so the frames render while reading. Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Do not caption launch stills as Kepler-62. Launch diamonds are not cell silhouettes. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not dump Habitat-kit production notes into `bible/`.
 
 ## Tags
 
