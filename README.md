@@ -11,6 +11,26 @@ Hard-SF world bible for Habitat-kit. One independently orbiting cell in the Kepl
 
 Key-art caches. These are not Habitat Cuts. Kepler system stills: the large irregular body is not Kepler-62b–f. Sol launch stills: original probes leaving Earth, 2085–2095 A.D. Notes in [`bible/wiki.md`](bible/wiki.md) §12–13.
 
+### Leaving Earth, 2085–2095 A.D.
+
+![Several diamond lightsails as dark silhouettes against Earth's limb](stills/07-fleet.jpg)
+
+*`07-fleet`. Founding dispatch. Earth's limb. Several diamond lightsails. Visible count is camera selection, not batch size.*
+
+![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](stills/04-boom.jpg)
+
+*`04-boom`. Close. Hub, chassis, four spars. Dark bays are look-dev, not a mass-row change. Earth limb faint.*
+
+![Edge-on lightsail as a thin bright cross against Earth's disk](stills/05-cross.jpg)
+
+*`05-cross`. Far. Edge-on. Membrane reads as a bright cross. Hub as a speck. Earth disk and atmosphere limb.*
+
+![Reflective diamond lightsail, square-on-point, four circular illumination marks](stills/06-face.jpg)
+
+*`06-face`. Close. Reflective diamond membrane, square-on-point. Face marks are look-dev illumination. They do not lock the beam.*
+
+### Kepler-62 swarm
+
 ![Kepler-62 with an irregular silhouette on the disk and a cell veil](stills/01-eclipse.jpg)
 
 *`01-eclipse`. Wide. Star in the middle. Kepler-62 as a K disk, prominences visible. Large irregular body in silhouette (planets b–f are out). Swarm sits as stacked veils of independently orbiting cells.*
@@ -23,25 +43,7 @@ Key-art caches. These are not Habitat Cuts. Kepler system stills: the large irre
 
 *`03-inward`. Camera already inside the swarm. Fine field of independent cells across the disk. Same irregular foreground body. Small circular transit is a different object. Habitat Cuts are not this shot.*
 
-Launch-era stills. Same decade as the founding dispatch. Earth is Earth. Launch diamonds are not Kepler cell silhouettes.
-
-![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](stills/04-boom.jpg)
-
-*`04-boom`. Close. Hub, chassis, four spars. Dark bays are look-dev, not a mass-row change. Earth limb faint. 2085–2095 A.D. window.*
-
-![Edge-on lightsail as a thin bright cross against Earth's disk](stills/05-cross.jpg)
-
-*`05-cross`. Far. Edge-on. Membrane reads as a bright cross. Hub as a speck. Earth disk and atmosphere limb.*
-
-![Reflective diamond lightsail, square-on-point, four circular illumination marks](stills/06-face.jpg)
-
-*`06-face`. Close. Reflective diamond membrane, square-on-point. Face marks are look-dev illumination. They do not lock the beam.*
-
-![Several diamond lightsails as dark silhouettes against Earth's limb](stills/07-fleet.jpg)
-
-*`07-fleet`. Wide. Earth's limb. Several diamond silhouettes. Visible count is camera selection, not batch size.*
-
-Index: [`stills/README.md`](stills/README.md).
+Launch diamonds are not Kepler cell silhouettes. Index: [`stills/README.md`](stills/README.md).
 
 ## 1. What this repo is
 
@@ -117,6 +119,24 @@ Lengths below are for reading. Source file is Unit-canon. Edit there: https://gi
 | Deck | 3.0 m | [Unit-canon](https://github.com/Plygonality/Unit-canon) |
 | Airlock | 1.0 m | [Unit-canon](https://github.com/Plygonality/Unit-canon) |
 | Human figure | 1.80 m | [Unit-canon](https://github.com/Plygonality/Unit-canon) |
+
+The founding-launch and probe-body rows are the Sol stack in these frames. Sail extra. Not Kepler arrival.
+
+![Fleet leaving Earth's limb in the founding window](stills/07-fleet.jpg)
+
+*`07-fleet`. 2085–2095 A.D. near Earth. Visible count is not batch size.*
+
+![Reflective diamond sail of a gram-class probe](stills/06-face.jpg)
+
+*`06-face`. 1–10 g body at the hub. Diamond is look-dev. Table diameters stay circular-equivalent.*
+
+![Hub and four spars](stills/04-boom.jpg)
+
+*`04-boom`. Body and support. Dark bays do not enlarge the 1–10 g budget.*
+
+![Edge-on cross on Earth's disk](stills/05-cross.jpg)
+
+*`05-cross`. Laser-driven lightsail after deploy. Not a solar-wind sail.*
 
 Mass-table correction (CANON): **1 mm @ 1% of a 3.6 AU sphere ≈ 0.012 M⊕**. **12 M⊕ is a 1 m plate @ 1%.** Plate-only examples, not total swarm mass. Someone swapped millimeters and meters. Drop the old 12 M⊕ @ 1 mm number.
 

@@ -63,13 +63,31 @@ Pre-launch rows are programme history. They are fiction, not forecasts.
 | 2065–2076 | Picotechnology, as defined in [`probes.md`](probes.md), reaches usable fabrication, storage, and control. | Established fiction |
 | 2072–2082 | Precursor systems build and repair at selected Solar System sites. Some trials fail on local feedstocks. Laser-launch infrastructure begins. | Established fiction |
 | 2078–2085 | Archive assembly, mind recruitment, replication and activation rules. | Established fiction |
-| 2085–2095 | About one billion original probes dispatched in batches of thousands. Founding event. Launch stills `04-boom` / `05-cross` / `06-face` / `07-fleet` depict this window near Earth, not Kepler arrival. | Established fiction |
+| 2085–2095 | About one billion original probes dispatched in batches of thousands. Founding event. The launch stills below depict this window near Earth, not Kepler arrival. | Established fiction |
 | Late 2080s–2200 | Local Solar System branches expand. Earth sees local return. Interstellar hops remain long commitments. | Established fiction |
 | 2300–6900 | Nearer settlements may evolve, launch descendants, and exchange delayed mail. Whether any of that precedes original Kepler probes is OPEN. | Provisional |
 | 6995–7005 | Unbraked passage of original Kepler batches near the target, if they are still coasting at 0.2c. | Model-derived |
 | After successful capture | Industry, archive verification, compute, selected activation. A surviving archive is not yet a society. | Provisional |
 | After first cells close | Independent orbital cells proliferate and specialise. Lineages and preservation practices diverge. | Provisional |
 | Later | Some cells isolate or go obsolete. The featured Habitat-kit cell enters the relic state. | Provisional |
+
+**CANON.** The four launch stills depict the 2085–2095 A.D. dispatch near Earth. They do not lock a day inside that window. They are not Kepler arrival frames.
+
+![Fleet against Earth's limb](../stills/07-fleet.jpg)
+
+*`07-fleet`. Founding window. Batches of thousands; this frame shows a handful. Visible count is camera selection.*
+
+![Hub, chassis, and four spars](../stills/04-boom.jpg)
+
+*`04-boom`. Close. Hardware of that decade. Earth faint.*
+
+![Edge-on cross on Earth's disk](../stills/05-cross.jpg)
+
+*`05-cross`. Far. Leaving Earth. The 226 s boost is negligible on this historical table.*
+
+![Reflective diamond sail face](../stills/06-face.jpg)
+
+*`06-face`. Close. Laser-driven lightsail. Face marks are look-dev. They do not lock the beam.*
 
 **INFERENCE.** An arrival confirmation, if sent at a capture date \(T\), can reach Sol around \(T+982\). An immediate reply can reach Kepler around \(T+1964\). \(T\) itself is OPEN.
 

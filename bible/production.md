@@ -81,6 +81,38 @@ Distant Kepler cells in `01`–`03` read as sharp dark polygons. System-scale si
 
 Launch diamonds in `04`–`07` are gram-class sails at Sol. Do not map them as Kepler cells. Do not apply 27.3 W/m² Kepler fill to those frames. Earth / G2 is correct there.
 
+### Kepler system
+
+![Eclipse](../stills/01-eclipse.jpg)
+
+*`01-eclipse`. System. Large irregular body ≠ b–f. Independent cell veils. K disk.*
+
+![Lattice](../stills/02-lattice.jpg)
+
+*`02-lattice`. System. Receding geometric cells. Filename does not lock a grid. Those diamonds are cells, not launch sails.*
+
+![Inward](../stills/03-inward.jpg)
+
+*`03-inward`. System. Independent cells on the disk. Small circular transit is a different object.*
+
+### Sol launch
+
+![Boom](../stills/04-boom.jpg)
+
+*`04-boom`. Sol. Hub, chassis, four spars. Earth faint. Look-dev for the dispatched `origin=sol` stack.*
+
+![Cross](../stills/05-cross.jpg)
+
+*`05-cross`. Sol. Edge-on cross on Earth's disk. G2 / Earth limb is correct here.*
+
+![Face](../stills/06-face.jpg)
+
+*`06-face`. Sol. Reflective diamond face. Marks are look-dev. Do not lock beam count from them.*
+
+![Fleet](../stills/07-fleet.jpg)
+
+*`07-fleet`. Sol. Several diamonds on Earth's limb. Visible count is not batch size. Do not map as Kepler cells.*
+
 If look-dev is chasing these frames:
 
 | Cue | Keep | Drop |
@@ -123,6 +155,14 @@ Collection-linter reports length faults. This bible does not. Lineage changes jo
 Sol-built prop (gram-class probe body, archive canister, sail remnant): tag `origin=sol` on the object or the brief. Assembled at Kepler-62: `origin=kepler`. Unlabeled mix fails.
 
 Launch stills `04`–`07` are the look-dev for the dispatched Sol stack (body + sail). A later `origin=sol` remnant on a Kepler cell is a different state. Do not dress the remnant as a full diamond sail unless a brief says the sail stayed attached (OPEN).
+
+![Dispatched Sol stack, sail face](../stills/06-face.jpg)
+
+*`06-face`. Full sail + hub. This is the launch stack, not a remnant.*
+
+![Dispatched Sol stack, hub closeup](../stills/04-boom.jpg)
+
+*`04-boom`. Body and spars. Tag `origin=sol` if this hardware later appears on a Kepler cell.*
 
 Sail remnant mass is extra to the 1–10 g body. Do not caption a 2 g stack as "1 g including sail."
 

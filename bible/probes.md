@@ -16,6 +16,10 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** The programme is fiction. It becomes possible through accelerated fictional work on human whole-brain emulation, ASI, consensual integrations of human-derived minds and artificial intelligences, extremely compact manufacturing and storage, and abiogenesis / biological reconstruction. Those are setting premises, not forecasts.
 
+![Fleet of diamond lightsails leaving Earth's limb](../stills/07-fleet.jpg)
+
+*`07-fleet`. 2085–2095 A.D. Batches of thousands. This frame shows a handful. Visible count is camera selection, not the billion and not the batch size.*
+
 ## 2. Probe body
 
 **CANON.** The probe body has a mass of approximately 1–10 g.
@@ -27,6 +31,10 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 **OPEN.** Exact component mass allocations inside the 1–10 g body.
 
 **OPEN.** Whether the sail remains attached after the boost.
+
+![Hub, chassis, and four spars](../stills/04-boom.jpg)
+
+*`04-boom`. Close. 1–10 g body at the hub. Dark bays are look-dev. They do not enlarge the body budget. Sail system is extra and may be out of key.*
 
 ## 3. What runs in flight
 
@@ -89,6 +97,10 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** 0.2c is both the adopted maximum and the coast speed of the original Kepler hop. It is not the trip-average speed if braking later occurs. 982 yr is light-travel, not ship time.
 
+![Edge-on lightsail as a thin bright cross against Earth](../stills/05-cross.jpg)
+
+*`05-cross`. Dispatch and deploy, then laser boost. Membrane so thin it reads as a cross. Not a solar-wind sail. Not sunlight alone to 0.2c.*
+
 ## 8. Adopted sail family
 
 **CANON.** Adopted engineering targets inside the fiction, not demonstrated hardware.
@@ -108,6 +120,10 @@ Assumptions: probe body 1–10 g; effective deployed sail-system areal density 0
 **INFERENCE.** Same \(P/m\) on every row. Boost to 0.2c: launch-frame duration 226 s; onboard proper time 225 s; transmitter emission 202 s; distance 7.31 million km ≈ 0.049 AU; initial acceleration ≈ 34 000 g. See [`appendix-launch.md`](appendix-launch.md).
 
 **INFERENCE.** Lower beam intensity, different loading, or a different acceleration distance produce different designs.
+
+![Reflective diamond lightsail, square-on-point](../stills/06-face.jpg)
+
+*`06-face`. Look-dev planform is diamond. Table diameters above stay circular-equivalent. Face marks are look-dev illumination. They do not lock beam count or aperture.*
 
 ## 9. Limits that stay visible
 
