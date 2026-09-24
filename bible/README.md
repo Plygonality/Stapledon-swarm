@@ -5,7 +5,7 @@ Human + AI context. Habitat-kit is a different repo. This is a world bible, not 
 | File | Job |
 | --- | --- |
 | [`wiki.md`](wiki.md) | Numbered wiki. Tagged summaries. Index of the detail files. |
-| [`probes.md`](probes.md) | Programme, payload, picotechnology, laser-sail family, hop limits. |
+| [`probes.md`](probes.md) | Programme, payload, picotechnology, laser-sail family, hop limits, launch look-dev. |
 | [`chronology.md`](chronology.md) | Three clocks. Gregorian A.D. timeline. Passage vs capture. |
 | [`lineages.md`](lineages.md) | Batch lineages as architectural ancestry. |
 | [`preservation.md`](preservation.md) | Competing Earth reconstructions. |
@@ -31,7 +31,7 @@ Human + AI context. Habitat-kit is a different repo. This is a world bible, not 
 | Social history, institutions, WBE identity | yes, tagged; no invented protagonists | visual mapping only |
 | Named characters, factions, religions | no new names to fill space | no |
 | Habitat-kit Python / graphs | no | names and sockets only |
-| Artwork | embed `stills/` with captions in wiki §12–13 | map the three files; Habitat Cuts stay unshot |
+| Artwork | embed `stills/` with captions in wiki §12–13 | map both still families; Habitat Cuts stay unshot |
 
 ## Conflict order
 

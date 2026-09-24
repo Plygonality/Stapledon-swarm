@@ -62,18 +62,24 @@ Rejected:
 
 ## 4. Still mapping
 
-`stills/` is a cache of system-scale key-art (Git LFS). Blend-ci does not cook those three. Habitat-kit does not rebuild them. Habitat Cuts are generated from Habitat-kit. Captions: [`wiki.md`](wiki.md) §13.
+`stills/` is a cache of key-art, two families (Git LFS). Blend-ci does not cook them. Habitat-kit does not rebuild them. Habitat Cuts are generated from Habitat-kit. Captions: [`wiki.md`](wiki.md) §13.
 
 | Still | File | Owner | Camera |
 | --- | --- | --- | --- |
-| Eclipse | [`stills/01-eclipse.jpg`](../stills/01-eclipse.jpg) | This repo | System. Large irregular body ≠ b–f. Independent cells, not a rigid lattice. |
-| Lattice | [`stills/02-lattice.jpg`](../stills/02-lattice.jpg) | This repo | System. Receding geometric cells. Filename does not lock a grid. |
-| Inward | [`stills/03-inward.jpg`](../stills/03-inward.jpg) | This repo | System. Independent cells on the disk. Small circular transit is a different object. |
+| Eclipse | [`stills/01-eclipse.jpg`](../stills/01-eclipse.jpg) | This repo | Kepler system. Large irregular body ≠ b–f. Independent cells, not a rigid lattice. |
+| Lattice | [`stills/02-lattice.jpg`](../stills/02-lattice.jpg) | This repo | Kepler system. Receding geometric cells. Filename does not lock a grid. |
+| Inward | [`stills/03-inward.jpg`](../stills/03-inward.jpg) | This repo | Kepler system. Independent cells on the disk. Small circular transit is a different object. |
+| Boom | [`stills/04-boom.jpg`](../stills/04-boom.jpg) | This repo | Sol launch. Hub, chassis, four spars. Earth faint. |
+| Cross | [`stills/05-cross.jpg`](../stills/05-cross.jpg) | This repo | Sol launch. Edge-on cross on Earth's disk. |
+| Face | [`stills/06-face.jpg`](../stills/06-face.jpg) | This repo | Sol launch. Reflective diamond face. Marks are look-dev. |
+| Fleet | [`stills/07-fleet.jpg`](../stills/07-fleet.jpg) | This repo | Sol launch. Several diamonds on Earth's limb. Visible count is not batch size. |
 | Construction cell | Habitat-kit `screenshots/construction/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Unshot here. |
 | Operational cell | Habitat-kit `screenshots/operational/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Unshot here. |
 | Relic cell | Habitat-kit `screenshots/relic/` | Habitat-kit + Time-slice + Blend-ci | Cell. Generated from Habitat-kit. Empty habitation + protected archive plant. Unshot here. |
 
-Distant cells in the key-art read as sharp dark polygons. System-scale silhouette. Habitat-kit instances one airlock / deck-bay / truss / hatch cell.
+Distant Kepler cells in `01`–`03` read as sharp dark polygons. System-scale silhouette. Habitat-kit instances one airlock / deck-bay / truss / hatch cell.
+
+Launch diamonds in `04`–`07` are gram-class sails at Sol. Do not map them as Kepler cells. Do not apply 27.3 W/m² Kepler fill to those frames. Earth / G2 is correct there.
 
 If look-dev is chasing these frames:
 
@@ -85,6 +91,7 @@ If look-dev is chasing these frames:
 | Small circular disk | Optional transit; unnamed | Call it the large body |
 | Haze / traces | Faint red orbital traces | Default Earth-blue space; welded grid |
 | Exterior light | 27.3 W/m² is dim, not a black void | "Virtually invisible" exteriors |
+| Launch stills | Earth limb, diamond sail, four spars, gram hub | Caption as Kepler-62; treat as cell silhouettes; lock beam count from face marks |
 
 ## 5. Lighting map
 
@@ -96,7 +103,7 @@ If look-dev is chasing these frames:
 | Active plant | Separate from Teq | Computers and radiators have their own temperatures. |
 | Key | Work lights | Construction: arcs, temporary. Operational: structured. Relic: sparse leftovers. |
 
-Earth-noon viewport means the cook is wrong. Mesh can still be right.
+Earth-noon viewport on a Kepler cell means the cook is wrong. Mesh can still be right. Sol launch stills `04`–`07` may show Earth. That is the other family.
 
 ## 6. Scale map
 
@@ -115,6 +122,8 @@ Collection-linter reports length faults. This bible does not. Lineage changes jo
 
 Sol-built prop (gram-class probe body, archive canister, sail remnant): tag `origin=sol` on the object or the brief. Assembled at Kepler-62: `origin=kepler`. Unlabeled mix fails.
 
+Launch stills `04`–`07` are the look-dev for the dispatched Sol stack (body + sail). A later `origin=sol` remnant on a Kepler cell is a different state. Do not dress the remnant as a full diamond sail unless a brief says the sail stayed attached (OPEN).
+
 Sail remnant mass is extra to the 1–10 g body. Do not caption a 2 g stack as "1 g including sail."
 
 Habitat-kit v1 can skip Sol props. It still cannot light the cell as Sol.
@@ -129,8 +138,8 @@ Bible rejects, not a Habitat-kit dump script. Run Habitat-kit's own tests in tha
 4. **Flux.** Exterior fill ≈ 27.3 W/m² (0.020 S☉). Dim, not a void. Work lights carry the close-up key. Star is K2.
 5. **Temperature.** Teq work figure ~120 K for passive exterior under stated assumptions. Active plant is separate. No shirtsleeve balcony. No Earth-noon grade.
 6. **Payload class.** No living crew as the design. 1–10 g body, sail extra, dormant WBE / ASI / archive as hardware only. No civilisation-on-a-probe caption.
-7. **Sol / Kepler.** Unlabeled Sol lighting or Sol hardware on a Kepler cell fails.
-8. **Key-art body.** System still: large body is irregular and not Kepler-62b–f. Match `stills/01-eclipse.jpg` / `stills/03-inward.jpg`. No label. No detected-life caption on e / f.
+7. **Sol / Kepler.** Unlabeled Sol lighting or Sol hardware on a Kepler cell fails. Launch stills `04`–`07` are Sol; caption them as Earth departure. Do not caption Kepler `01`–`03` as Sol departure.
+8. **Key-art body.** Kepler system still: large body is irregular and not Kepler-62b–f. Match `stills/01-eclipse.jpg` / `stills/03-inward.jpg`. No label. No detected-life caption on e / f. Launch diamonds are sails, not that body and not cells.
 9. **Mass.** Do not caption a foil swarm as 12 M⊕. 1 mm @ 1% ≈ 0.012 M⊕. 12 M⊕ is 1 m @ 1%. Plate examples are not total swarm mass.
 10. **0.2c is peak and coast.** No caption that the hop averaged 0.2c, or ran 982 yr at 0.2c. No 0.001 g two-century burn. No 7191–7201 default arrival. No silent Kepler brake laser.
 11. **OPEN.** No new factions, religions, invented protagonists, or an identity for the large body.

@@ -30,4 +30,6 @@ That is an institutional conflict. It is not a fourth Time-slice epoch.
 
 **CANON.** Mixed-period repairs on the featured relic cell may show more than one lineage’s connectors on the same hull. See [`featured-cell.md`](featured-cell.md).
 
-**CANON.** Distant key-art polygons are system-scale silhouettes. They are not a lineage-coded Habitat-kit mesh.
+**CANON.** Distant Kepler key-art polygons are system-scale silhouettes. They are not a lineage-coded Habitat-kit mesh.
+
+**CANON.** Launch-era diamonds in `04`–`07` are gram-class sails at Sol. They are a different class from those cell marks.

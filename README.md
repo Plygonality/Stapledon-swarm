@@ -7,9 +7,9 @@ Hard-SF world bible for Habitat-kit. One independently orbiting cell in the Kepl
 | [`bible/`](bible/) | Human + AI context. Wiki, detail files, OPEN list. Not enforced by CI. |
 | [`calc/`](calc/) · [`schema/`](schema/) | Enforceable. Calc tests and the constraint JSON Schema. |
 | [`constraints/`](constraints/) | Constraint files. Every `*.json` file validates against `schema/`. |
-| [`stills/`](stills/) | Caches of system-scale key-art (Git LFS). Habitat Cuts are generated from Habitat-kit. |
+| [`stills/`](stills/) | Key-art caches, two families (Git LFS). Habitat Cuts are generated from Habitat-kit. |
 
-Key-art caches, system scale. These are not Habitat Cuts. The large irregular body is not Kepler-62b–f. Notes in [`bible/wiki.md`](bible/wiki.md) §12–13.
+Key-art caches. These are not Habitat Cuts. Kepler system stills: the large irregular body is not Kepler-62b–f. Sol launch stills: original probes leaving Earth, 2085–2095 A.D. Notes in [`bible/wiki.md`](bible/wiki.md) §12–13.
 
 ![Kepler-62 with an irregular silhouette on the disk and a cell veil](stills/01-eclipse.jpg)
 
@@ -23,6 +23,24 @@ Key-art caches, system scale. These are not Habitat Cuts. The large irregular bo
 
 *`03-inward`. Camera already inside the swarm. Fine field of independent cells across the disk. Same irregular foreground body. Small circular transit is a different object. Habitat Cuts are not this shot.*
 
+Launch-era stills. Same decade as the founding dispatch. Earth is Earth. Launch diamonds are not Kepler cell silhouettes.
+
+![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](stills/04-boom.jpg)
+
+*`04-boom`. Close. Hub, chassis, four spars. Dark bays are look-dev, not a mass-row change. Earth limb faint. 2085–2095 A.D. window.*
+
+![Edge-on lightsail as a thin bright cross against Earth's disk](stills/05-cross.jpg)
+
+*`05-cross`. Far. Edge-on. Membrane reads as a bright cross. Hub as a speck. Earth disk and atmosphere limb.*
+
+![Reflective diamond lightsail, square-on-point, four circular illumination marks](stills/06-face.jpg)
+
+*`06-face`. Close. Reflective diamond membrane, square-on-point. Face marks are look-dev illumination. They do not lock the beam.*
+
+![Several diamond lightsails as dark silhouettes against Earth's limb](stills/07-fleet.jpg)
+
+*`07-fleet`. Wide. Earth's limb. Several diamond silhouettes. Visible count is camera selection, not batch size.*
+
 Index: [`stills/README.md`](stills/README.md).
 
 ## 1. What this repo is
@@ -32,7 +50,7 @@ A world bible. Habitat-kit and the rest of the Plygonality stack read it. `bible
 | File | Job |
 | --- | --- |
 | [`bible/wiki.md`](bible/wiki.md) | Numbered wiki. Claims tagged. Summaries link to detail files. |
-| [`bible/probes.md`](bible/probes.md) | Payload, picotechnology, laser-sail family, hop limits. |
+| [`bible/probes.md`](bible/probes.md) | Payload, picotechnology, laser-sail family, hop limits, launch look-dev. |
 | [`bible/chronology.md`](bible/chronology.md) | Three clocks. Gregorian A.D. timeline. Passage vs capture. |
 | [`bible/lineages.md`](bible/lineages.md) | Batch lineages as architectural ancestry. |
 | [`bible/preservation.md`](bible/preservation.md) | Competing Earth reconstructions. |

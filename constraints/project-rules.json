@@ -38,7 +38,7 @@
     {
       "id": "sol-vs-kepler",
       "tag": "CANON",
-      "statement": "Sol is origin. Kepler-62 is one distant branch of a late-21st-century expansion programme. G2 lighting on a Kepler cell is wrong. Earth-flux panels on a 0.020 S☉ / 27.3 W/m² orbit are not operational."
+      "statement": "Sol is origin. Kepler-62 is one distant branch of a late-21st-century expansion programme. G2 lighting on a Kepler cell is wrong. Earth-flux panels on a 0.020 S☉ / 27.3 W/m² orbit are not operational. Sol launch stills may show Earth. Do not caption them as Kepler-62."
     },
     {
       "id": "speed-and-launch",
@@ -78,7 +78,7 @@
     {
       "id": "artwork-caches",
       "tag": "CANON",
-      "statement": "Key-art in stills/ is a cache, tracked with Git LFS. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not add stills to close an OPEN item."
+      "statement": "Key-art in stills/ is a cache, tracked with Git LFS. Two families: Kepler system (01–03) and Sol launch (04–07). Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not add stills to close an OPEN item."
     },
     {
       "id": "production-notes-live-in-habitat-kit",

@@ -77,7 +77,7 @@ Same \(P/m\) on every row of the reference family. Independent Simpson integrati
 
 **INFERENCE.** Lower intensity, different loading, or a shorter acceleration lane change every row. The table is one family, not a required unique sail.
 
-**INFERENCE.** Diffraction check only: a 1 μm source with a 5 km aperture has an Airy first-dark-ring diameter \(2.44\,\lambda L/D \approx 3.57\) m at \(L=7.31\times10^9\) m. Order-of-magnitude. It does not guarantee full power on the 3.57 m sail.
+**INFERENCE.** Diffraction check only: a 1 μm source with a 5 km aperture has an Airy first-dark-ring diameter \(2.44\,\lambda L/D \approx 3.57\) m at \(L=7.31\times10^9\) m. Order-of-magnitude against the circular-equivalent 1 g row. It does not guarantee full power on the 3.57 m sail. Launch stills use a diamond planform; this check is not re-fit to that outline.
 
 ## Obsolete model
 

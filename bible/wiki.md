@@ -28,6 +28,8 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** Do not light a Kepler still with a G2 disk. 1 S☉ panel grades on a 0.020 S☉ orbit are not "operational".
 
+**CANON.** Sol launch stills may show Earth. Do not caption them as Kepler-62. Do not light a Kepler system still as Earth departure.
+
 **CANON.** Sol-built hardware used at Kepler needs a label on the still or the brief. Unlabeled mix fails.
 
 **CANON.** Sol keeps changing after the departure-cutoff archives stop accumulating Earth experience.
@@ -44,7 +46,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** 0.2c is not automatically the trip-average speed. 982 yr is light-travel, not ship time.
 
-**CANON.** Default architecture: dispatch, laser-driven lightsail acceleration, long unpowered coast, then an unresolved destination braking and capture phase. Detail: [`probes.md`](probes.md) §7–9.
+**CANON.** Default architecture: dispatch, laser-driven lightsail acceleration, long unpowered coast, then an unresolved destination braking and capture phase. Detail: [`probes.md`](probes.md) §7–9. Launch-era stills of dispatch: §13.4–13.7.
 
 **CANON.** Interstellar acceleration to ~0.2c is directed laser light, not ordinary sunlight and not the solar wind. Solar collectors may power the launch plant. Direct sunlight can support local manoeuvres.
 
@@ -202,9 +204,9 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ## 12. Key-art body
 
-**CANON.** The large body in the system stills is **not** Kepler-62b, c, d, e, or f.
+**CANON.** The large body in the Kepler system stills is **not** Kepler-62b, c, d, e, or f.
 
-**CANON.** In the key-art stills the silhouette is irregular, non-spherical, with blocky / cutout edges. It is not a circular planet disk.
+**CANON.** In those Kepler frames the silhouette is irregular, non-spherical, with blocky / cutout edges. It is not a circular planet disk. Earth in the launch stills is Earth. It is not this body.
 
 **CANON.** Do not move that silhouette onto planets b–f. Do not label it 62e or 62f so the still "reads".
 
@@ -218,7 +220,11 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ## 13. Stills
 
-**CANON.** Three system stills sit in [`../stills/`](../stills/). Key-art. Habitat-kit does not have to match them. Habitat Cuts are a different set.
+**CANON.** Key-art stills sit in [`../stills/`](../stills/). Two families. Habitat-kit does not have to match them. Habitat Cuts are a different set.
+
+**CANON.** Kepler system: `01-eclipse.jpg`, `02-lattice.jpg`, `03-inward.jpg`. Destination, after settlement. K2 disk. Large-body rule as in §12.
+
+**CANON.** Sol launch: `04-boom.jpg`, `05-cross.jpg`, `06-face.jpg`, `07-fleet.jpg`. Original probes leaving Earth in the 2085–2095 A.D. window. Detail: [`probes.md`](probes.md) §11.
 
 ### 13.1 Eclipse. `stills/01-eclipse.jpg`
 
@@ -248,13 +254,51 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **OPEN.** Which of b–f, if any, is that circular transit disk.
 
-**CANON.** These frames do not lock cell count, plate thickness, or fill fraction.
+**CANON.** These three Kepler frames do not lock cell count, plate thickness, or fill fraction.
+
+### 13.4 Boom. `stills/04-boom.jpg`
+
+![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](../stills/04-boom.jpg)
+
+*Close. Hub and chassis. Four long spars. Thin truss. Dark bays on the body are look-dev, not a mass-row change. Sail membrane may be out of key. Earth limb faint behind. 2085–2095 A.D. window, not a locked day.*
+
+**CANON.** Frame as captioned. Four-boom layout, gram-class hub, gossamer frame. Sol departure.
+
+### 13.5 Cross. `stills/05-cross.jpg`
+
+![Edge-on lightsail as a thin bright cross against Earth's disk](../stills/05-cross.jpg)
+
+*Far. Edge-on. Membrane so thin it reads as a bright cross. Hub as a speck. Earth disk and atmosphere limb. An unlit face may sit as a dark diamond.*
+
+**CANON.** Frame as captioned. Edge-on thinness. Earth is the origin.
+
+### 13.6 Face. `stills/06-face.jpg`
+
+![Reflective diamond lightsail, square-on-point, four circular illumination marks](../stills/06-face.jpg)
+
+*Close. Reflective diamond membrane, square-on-point. Four spars. Hub at centre. Soft circular marks on the face are look-dev illumination. They do not lock beam count, wavelength, or aperture.*
+
+**CANON.** Frame as captioned. Diamond planform. Reflective face. Marks are look-dev.
+
+### 13.7 Fleet. `stills/07-fleet.jpg`
+
+![Several diamond lightsails as dark silhouettes against Earth's limb](../stills/07-fleet.jpg)
+
+*Wide. Earth's limb. Several diamond silhouettes at different distances. Nearest may show a bright hub. Visible count is camera selection. A batch is still of order 1 000.*
+
+**CANON.** Frame as captioned. Fleet as a visual class. Visible count is not batch size.
+
+**CANON.** Launch stills lock the 2085–2095 A.D. window. They do not lock a day inside it. They do not lock sail metres, boom length, membrane thickness, or whether the sail stays attached after the boost.
+
+**CANON.** The adopted family table quotes circular diameters as equivalent-area figures. Diamond look-dev does not replace those rows.
 
 **CANON. Habitat Cut stills (unshot).** Construction, operational, relic of one close-up cell. States as in §11 and [`featured-cell.md`](featured-cell.md). Unit-canon figure or airlock in frame for scale. Probe-kit crawler / drone / debris as instances only. Same camera across the three cuts if you are proving Time-slice.
 
-**CANON.** Diamond and arrowhead marks in the key-art are system-scale silhouettes. Habitat-kit builds one industrial / brutalist cell at Unit-canon scale.
+**CANON.** Diamond and arrowhead marks in the Kepler key-art are system-scale silhouettes. Habitat-kit builds one industrial / brutalist cell at Unit-canon scale.
 
-**INFERENCE.** The three key-art files show system scale and the large-body rule. Habitat Cuts show the cell Habitat-kit is allowed to build.
+**CANON.** Launch-era diamonds are gram-class sails at Sol. They are not Kepler cell silhouettes and not the Habitat-kit mesh.
+
+**INFERENCE.** The three Kepler files show system scale and the large-body rule. The four launch files show Sol dispatch of the original probes. Habitat Cuts show the cell Habitat-kit is allowed to build.
 
 ## 14. Failure modes
 
@@ -272,6 +316,11 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 - Restores 12 M⊕ as the 1 mm swarm, or treats the plate examples as total swarm mass.
 - Lights a Kepler cell as Sol / 1 S☉.
 - Labels the large key-art body as Kepler-62b–f.
+- Captions a launch still as Kepler-62, or a Kepler system still as Earth departure.
+- Treats launch-era diamond sails as Kepler cell silhouettes, or the reverse.
+- Reads face marks on `06-face` as a locked beam architecture.
+- Reads a fleet frame's visible count as the batch size.
+- Treats diamond look-dev as replacing the circular-equivalent diameter table.
 - Treats the distant diamond / arrowhead marks as the Habitat-kit mesh.
 - Builds the whole swarm inside Habitat-kit, or a rigid lattice of cells.
 - Treats the featured relic cell as proof the swarm is dead.
@@ -293,7 +342,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ## 16. Programme
 
-**CANON.** 2085–2095 A.D.: about one billion original autonomous Von Neumann probes, batches of thousands, toward Solar System sites, nearby stars, and distant stars including Kepler-62. Detail: [`probes.md`](probes.md) §1.
+**CANON.** 2085–2095 A.D.: about one billion original autonomous Von Neumann probes, batches of thousands, toward Solar System sites, nearby stars, and distant stars including Kepler-62. Detail: [`probes.md`](probes.md) §1. Launch-era stills: §13.4–13.7.
 
 **CANON.** Distinguish original probes from later descendants.
 
